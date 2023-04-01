@@ -1,0 +1,2058 @@
+﻿city_name;postal_code;area_sqm;population;category
+Berlin;10178;891.12;3677472;largerthan
+Hamburg;20038;755.09;1853935;largerthan
+München;80313;310.7;1487708;largerthan
+Köln;50667;405.01;1073096;1mio
+Frankfurt am Main;60311;248.31;759224;atleast
+Stuttgart;70173;207.33;626275;atleast
+Düsseldorf;40213;217.41;619477;atleast
+Leipzig;4109;297.8;601866;atleast
+Dortmund;44135;280.71;586852;atleast
+Essen;45121;210.34;579432;atleast
+Bremen;28195;317.84;563290;atleast
+Dresden;1067;328.49;555351;atleast
+Hannover;30159;204.3;535932;atleast
+Nürnberg;90403;186.44;510632;atleast
+Duisburg;47051;232.79;495152;atleast
+Bochum;44787;145.66;363441;atleast
+Wuppertal;42275;168.39;354572;atleast
+Bielefeld;33602;258.83;334002;atleast
+Bonn;53111;141.06;331885;atleast
+Münster;48143;303.28;317713;atleast
+Mannheim;68159;144.97;311831;atleast
+Karlsruhe;76133;173.42;306502;atleast
+Augsburg;86150;146.85;296478;atleast
+Wiesbaden;65183;203.87;278950;atleast
+Mönchengladbach;41061;170.47;261001;atleast
+Gelsenkirchen;45879;104.94;260126;atleast
+Aachen;52058;160.85;249070;atleast
+Braunschweig;38100;192.7;248823;atleast
+Kiel;24103;118.65;246243;atleast
+Chemnitz;9111;221.03;243105;atleast
+Halle (Saale);6108;135.01;238061;atleast
+Magdeburg;39104;201.03;236188;atleast
+Freiburg im Breisgau;79098;153.04;231848;atleast
+Krefeld;47798;137.78;227050;atleast
+Mainz;55116;97.73;217556;atleast
+Lübeck;23539;214.19;216277;atleast
+Erfurt;99084;269.91;213227;atleast
+Oberhausen;46045;77.09;208752;atleast
+Rostock;18055;181.36;208400;atleast
+Kassel;34117;106.79;200406;atleast
+Hagen;58095;160.45;188713;atleast
+Potsdam;14469;188.24;183154;atleast
+Saarbrücken;66111;167.52;179634;atleast
+Hamm;59065;226.42;179238;atleast
+Ludwigshafen am Rhein;67059;77.43;172145;atleast
+Mülheim an der Ruhr;45468;91.28;170739;atleast
+Oldenburg (Oldenburg);26105;103.09;170389;atleast
+Osnabrück;49074;119.8;165034;atleast
+Leverkusen;51373;78.87;163851;atleast
+Darmstadt;64283;122.07;159631;atleast
+Heidelberg;69117;108.83;159245;atleast
+Solingen;42651;89.54;158957;atleast
+Herne;44623;51.42;156621;atleast
+Regensburg;93019;80.86;153542;atleast
+Neuss;41460;99.52;152731;atleast
+Paderborn;33104;179.59;152531;atleast
+Ingolstadt;85049;133.35;138016;atleast
+Offenbach am Main;63065;44.88;131295;atleast
+Fürth;90744;63.35;129122;atleast
+Ulm;89073;118.68;126949;atleast
+Würzburg;97070;87.6;126933;atleast
+Heilbronn;74072;99.89;125613;atleast
+Pforzheim;75175;97.99;125529;atleast
+Wolfsburg;38440;204.62;123949;atleast
+Bottrop;46236;100.62;117311;atleast
+Göttingen;37083;117.02;116557;atleast
+Reutlingen;72764;87.04;116456;atleast
+Koblenz;56068;105.25;113638;atleast
+Erlangen;91051;76.96;113292;atleast
+Bremerhaven;27576;101.53;113173;atleast
+Remscheid;42853;74.52;111770;atleast
+Bergisch Gladbach;51465;83.09;111645;atleast
+Recklinghausen;45657;66.5;110714;about
+Trier;54290;117.06;110570;about
+Jena;7743;114.77;110502;about
+Moers;47441;67.68;103725;about
+Salzgitter;38226;224.49;103694;about
+Siegen;57072;114.69;101516;about
+Gütersloh;33330;112.02;101158;about
+Hildesheim;31134;92.29;100319;about
+Kaiserslautern;67657;139.7;99292;about
+Hanau;63450;76.47;98502;about
+Cottbus;3046;165.62;98359;about
+Schwerin;19053;130.52;95740;about
+Witten;58452;72.4;95107;about
+Ludwigsburg;71638;43.34;93117;about
+Esslingen;73728;46.43;92640;about
+Tübingen;72070;108.06;91877;about
+Iserlohn;58636;125.49;91873;about
+Düren;52349;85.01;91814;about
+Gera;7545;152.18;91368;about
+Gießen;35390;72.61;91255;about
+Flensburg;24937;56.73;91113;about
+Zwickau;08056;102.58;86592;smaller
+Villingen-Schwenningen;78050;165.53;86475;smaller
+Ratingen;40878;88.74;86424;smaller
+Lünen;44532;59.39;85721;smaller
+Konstanz;78462;54.12;84736;smaller
+Worms;67547;108.73;83850;smaller
+Marl;45772;87.75;83697;smaller
+Minden;32423;101.12;81857;smaller
+Velbert;42551;74.9;81593;smaller
+Norderstedt;22846;58.1;80420;smaller
+Neumünster;24534;71.66;79496;smaller
+Dessau-Roßlau;06844;245;78731;smaller
+Bamberg;96031;54.62;77749;smaller
+Viersen;41747;91.1;77523;smaller
+Delmenhorst;27749;62.45;77522;smaller
+Rheine;48431;145;76948;smaller
+Marburg;35037;123.91;76571;smaller
+Lüneburg;21335;70.5;75599;smaller
+Gladbeck;45964;35.96;75343;smaller
+Troisdorf;53840;62;75222;smaller
+Wilhelmshaven;26382;107.11;75027;smaller
+Dorsten;46284;171.29;74551;smaller
+Detmold;32756;129.39;73969;smaller
+Bayreuth;95410;66.89;73909;smaller
+Arnsberg;59759;193.72;73423;smaller
+Landshut;84028;65.83;73150;smaller
+Castrop-Rauxel;44575;51.68;73078;smaller
+Brandenburg an der Havel;14770;229.72;72461;smaller
+Aschaffenburg;63701;62.45;71381;smaller
+Lüdenscheid;58507;87.02;71230;smaller
+Bocholt;46395;119.4;71074;smaller
+Celle;29221;176.02;69279;smaller
+Kempten (Allgäu);87435;63.28;69053;smaller
+Fulda;36037;104.05;68462;smaller
+Aalen;73430;146.58;68351;smaller
+Lippstadt;59555;113.68;68007;smaller
+Dinslaken;46535;47.66;67114;smaller
+Herford;32052;79.15;66551;smaller
+Kerpen;50171;113.96;66294;smaller
+Rüsselsheim am Main;65428;58.29;66125;smaller
+Weimar;99423;84.48;65138;smaller
+Neuwied;56564;86.5;65137;smaller
+Dormagen;41539;85.5;64553;smaller
+Sindelfingen;71063;50.83;64151;smaller
+Grevenbroich;41515;102.42;63922;smaller
+Rosenheim;83013;37.22;63508;smaller
+Plauen;08523;102.11;63372;smaller
+Neubrandenburg;17033;86.12;63043;smaller
+Herten;45699;37.33;61910;smaller
+Bergheim;50126;96.34;61807;smaller
+Friedrichshafen;88045;69.93;61561;smaller
+Schwäbisch Gmünd;73525;113.81;61333;smaller
+Offenburg;77652;78.37;60857;smaller
+Garbsen;30823;79.5;60711;smaller
+Wesel;46483;122.56;60688;smaller
+Hürth;50354;51.22;60034;smaller
+Neu-Ulm;89210;80.95;59814;smaller
+Greifswald;17489;50.81;59332;smaller
+Langenfeld (Rheinland);40764;41.15;59223;smaller
+Stralsund;18439;54.59;59171;smaller
+Unna;59423;88.56;58911;smaller
+Euskirchen;53879;139.49;58754;smaller
+Göppingen;73033;59.21;58061;smaller
+Hameln;31785;102.53;57394;smaller
+Meerbusch;40670;64.4;56855;smaller
+Frankfurt (Oder);15230;147.85;56679;smaller
+Stolberg (Rhld.);52222;98.48;56103;smaller
+Eschweiler;52249;75.75;55784;smaller
+Lingen (Ems);49808;176.19;55599;smaller
+Sankt Augustin;53757;34.22;55563;smaller
+Baden-Baden;76530;140.19;55527;smaller
+Waiblingen;71332;42.75;55526;smaller
+Görlitz;02826;67.53;55519;smaller
+Hilden;40721;25.95;55182;smaller
+Pulheim;50259;72.15;54805;smaller
+Langenhagen;30853;71.97;54712;smaller
+Nordhorn;48529;149.87;54162;smaller
+Bad Homburg v. d. Höhe;61343;51.14;54144;smaller
+Bad Salzuflen;32105;100.05;54074;smaller
+Hattingen;45525;71.66;54061;smaller
+Schweinfurt;97420;35.7;53585;smaller
+Neustadt an der Weinstraße;67433;117.09;53491;smaller
+Passau;94030;69.56;53093;smaller
+Wetzlar;35578;75.65;52969;smaller
+Ahlen;59227;123.13;52627;smaller
+Kleve;47533;97.76;52470;smaller
+Frechen;50226;45.06;52155;smaller
+Menden (Sauerland);58706;86.1;52096;smaller
+Wolfenbüttel;38300;78.73;51986;smaller
+Ibbenbüren;49477;108.87;51888;smaller
+Bad Kreuznach;55545;55.56;51695;smaller
+Gummersbach;51643;95.41;51126;smaller
+Ravensburg;88212;92.05;50928;smaller
+Speyer;67346;42.71;50565;smaller
+Böblingen;71032;39.04;50470;smaller
+Peine;31224;119.84;50461;smaller
+Rastatt;76437;58.98;50441;smaller
+Elmshorn;25335;21.36;50141;smaller
+Willich;47877;67.8;50133;smaller
+Goslar;38640;163.88;50010;smaller
+Erftstadt;50374;119.89;49667;smaller
+Emden;26721;112.34;49523;smaller
+Lörrach;79539;39.37;49318;smaller
+Heidenheim an der Brenz;89522;107.09;49129;smaller
+Gronau (Westf.);48599;78.82;49031;smaller
+Leonberg;71229;48.73;48931;smaller
+Bad Oeynhausen;32545;64.83;48803;smaller
+Frankenthal (Pfalz);67227;43.88;48773;smaller
+Rheda-Wiedenbrück;33378;86.72;48714;smaller
+Bergkamen;59192;44.9;48669;smaller
+Singen (Hohentwiel);78224;61.77;48587;smaller
+Freising;85350;88.59;48582;smaller
+Bornheim;53332;82.69;48435;smaller
+Cuxhaven;27472;161.92;48318;smaller
+Soest;59494;85.81;47929;smaller
+Lahr/Schwarzwald;77933;69.84;47891;smaller
+Straubing;94315;67.59;47854;smaller
+Dachau;85221;34.96;47738;smaller
+Alsdorf;52477;31.68;47678;smaller
+Stade;21682;110.07;47579;smaller
+Hennef (Sieg);53773;105.89;47400;smaller
+Landau in der Pfalz;76829;82.94;46919;smaller
+Dülmen;48249;184.83;46877;smaller
+Melle;49324;253.95;46732;smaller
+Oberursel (Taunus);61440;45.34;46660;smaller
+Oranienburg;16515;163.67;46555;smaller
+Herzogenrath;52134;33.38;46290;smaller
+Schwerte;58239;56.23;46240;smaller
+Neunkirchen;66538;75.26;46098;smaller
+Rodgau;63110;65.04;45847;smaller
+Filderstadt;70794;38.55;45814;smaller
+Albstadt;72458;134.4;45737;smaller
+Bruchsal;76646;93.04;45644;smaller
+Bünde;32257;59.29;45364;smaller
+Weinheim;69469;58.11;45197;smaller
+Fellbach;70734;27.71;45141;smaller
+Hof;95015;58.02;45125;smaller
+Kaufbeuren;87600;40.02;45118;smaller
+Gotha;99867;69.58;45099;smaller
+Wittenberg;06886;240.63;44984;smaller
+Neustadt am Rübenberge;31535;358.96;44796;smaller
+Memmingen;87700;70.11;44721;smaller
+Lehrte;31275;127.67;44369;smaller
+Falkensee;14612;43.34;44280;smaller
+Brühl;50321;36.12;43998;smaller
+Rottenburg am Neckar;72108;142.26;43843;smaller
+Kaarst;41564;37.39;43661;smaller
+Pinneberg;25421;21.54;43603;smaller
+Erkrath;40699;26.88;43594;smaller
+Erkelenz;41812;117.34;43492;smaller
+Bietigheim-Bissingen;74321;31.29;43137;smaller
+Gifhorn;38518;105.4;42993;smaller
+Borken;46325;153.24;42974;smaller
+Heinsberg;52525;92.21;42888;smaller
+Wismar;23952;41.72;42785;smaller
+Aurich;26603;197.29;42544;smaller
+Kamen;59174;40.95;42544;smaller
+Nettetal;41334;83.87;42508;smaller
+Weiden i.d.OPf.;92637;70.57;42472;smaller
+Bernau bei Berlin;16321;104.17;42054;smaller
+Amberg;92224;50.13;41994;smaller
+Laatzen;30880;34.16;41965;smaller
+Monheim am Rhein;40789;45069;41913;smaller
+Dreieich;63303;53.27;41811;smaller
+Eisenach;99817;104.17;41806;smaller
+Ansbach;91522;99.91;41662;smaller
+Siegburg;53721;23.66;41660;smaller
+Homburg;66424;82.61;41612;smaller
+Wunstorf;31515;125.74;41481;smaller
+Schwabach;91126;40.8;41146;smaller
+Schwäbisch Hall;74523;104.19;41141;smaller
+Eberswalde;16225;93.62;41103;smaller
+Königswinter;53639;76.2;41065;smaller
+Coburg;96450;48.29;40955;smaller
+Kirchheim unter Teck;73230;40.47;40954;smaller
+Nürtingen;72622;46.88;40885;smaller
+Hückelhoven;41836;61.27;40712;smaller
+Bensheim;64625;57.83;40629;smaller
+Nordhausen;99734;108.25;40563;smaller
+Germering;82110;21.61;40461;smaller
+Lemgo;32657;100.85;40345;smaller
+Neumarkt i.d.OPf.;92305;79.01;40274;smaller
+Buchholz in der Nordheide;21244;74.76;40164;smaller
+Buxtehude;21614;76.69;40139;smaller
+Leinfelden-Echterdingen;70771;29.89;40100;smaller
+Pirmasens;66953;61.35;40054;smaller
+Löhne;32584;59.51;39977;smaller
+Weißenfels;06667;113.57;39745;smaller
+Freiberg;09599;48.31;39721;smaller
+Hofheim am Taunus;65719;57.43;39704;smaller
+Ahaus;48683;151.24;39658;smaller
+Schorndorf;73614;56.83;39642;smaller
+Völklingen;66333;67.1;39428;smaller
+Ostfildern;73760;22.81;39376;smaller
+Freital;01705;40.46;39316;smaller
+Maintal;63477;32.41;39287;smaller
+Ettlingen;76275;56.75;39278;smaller
+Mettmann;40822;42.56;38808;smaller
+Niederkassel;53859;35.79;38694;smaller
+Halberstadt;38820;142.97;38682;smaller
+Langen (Hessen);63225;45289;38651;smaller
+Neu-Isenburg;63263;24.29;38532;smaller
+Ilmenau;98693;198.69;38521;smaller
+Würselen;52146;34.39;38480;smaller
+Pirna;01796;53.06;38361;smaller
+Stendal;39576;268.26;38359;smaller
+Königs Wusterhausen;15711;96.04;38283;smaller
+Papenburg;26871;118.44;37885;smaller
+Kamp-Lintfort;47475;63.14;37847;smaller
+Bautzen / Budyšin;02625;66.67;37838;smaller
+Haltern am See;45721;159.12;37808;smaller
+Greven;48268;140.26;37700;smaller
+Wesseling;50389;23.37;37519;smaller
+Backnang;71522;39.38;37460;smaller
+Kehl;77694;75.07;37378;smaller
+Warendorf;48231;176.88;37146;smaller
+Fürstenfeldbruck;82256;32.52;37063;smaller
+Bitterfeld-Wolfen;06766;86.99;37047;smaller
+Beckum;59269;111.46;36737;smaller
+Tuttlingen;78532;90.45;36672;smaller
+Erding;85435;54.61;36414;smaller
+Coesfeld;48653;141.36;36382;smaller
+Cloppenburg;49661;70.86;36183;smaller
+Suhl;98527;141.62;36054;smaller
+Emsdetten;48282;72.06;35927;smaller
+Voerde (Niederrhein);46562;53.49;35889;smaller
+Mühlhausen/Thüringen;99974;130.71;35797;smaller
+Limburg a. d. Lahn;65549;45.16;35783;smaller
+Sinsheim;74889;126.99;35707;smaller
+Porta Westfalica;32457;105.22;35658;smaller
+Winsen (Luhe);21423;109.77;35630;smaller
+Ingelheim am Rhein;55218;73.31;35486;smaller
+Meppen;49716;188.4;35415;smaller
+Leer (Ostfriesland);26789;70.11;35078;smaller
+St. Ingbert;66386;49.95;34971;smaller
+Bad Vilbel;61118;25.68;34905;smaller
+Datteln;45711;66.1;34876;smaller
+Crailsheim;74564;109.08;34862;smaller
+Lage;32791;76.04;34686;smaller
+Steinfurt;48565;111.67;34645;smaller
+Mörfelden-Walldorf;64546;44.13;34641;smaller
+Balingen;72336;90.32;34604;smaller
+Goch;47574;115.43;34593;smaller
+Kempen;47906;68.8;34562;smaller
+Dietzenbach;63128;21.68;34517;smaller
+Wermelskirchen;42929;74.81;34480;smaller
+Deggendorf;94469;77.14;34454;smaller
+Saarlouis;66740;43.3;34445;smaller
+Barsinghausen;30890;102.81;34327;smaller
+Seelze;30926;54.08;34271;smaller
+Ahrensburg;22926;35.29;34201;smaller
+Viernheim;68519;48.41;34189;smaller
+Wedel;22880;33.81;34151;smaller
+Zweibrücken;66482;70.64;34091;smaller
+Korschenbroich;41352;55.26;33786;smaller
+Radebeul;01445;26.14;33743;smaller
+Geldern;47608;96.97;33733;smaller
+Biberach an der Riß;88400;72.15;33708;smaller
+Hemer;58675;67.66;33708;smaller
+Kornwestheim;70806;14.65;33681;smaller
+Merseburg;06217;53.75;33641;smaller
+Uelzen;29525;136.84;33629;smaller
+Vechta;49377;87.89;33309;smaller
+Rheinfelden (Baden);79618;62.84;33045;smaller
+Bad Nauheim;61231;32.54;32777;smaller
+Lampertheim;68623;72.27;32682;smaller
+Jülich;52428;90.39;32635;smaller
+Forchheim;91301;44.44;32433;smaller
+Achim;28832;68.06;32379;smaller
+Delbrück;33129;157.28;32266;smaller
+Fürstenwalde/Spree;15517;70.68;32120;smaller
+Bramsche;49565;183.39;32103;smaller
+Wernigerode;38855;170.2;32027;smaller
+Bernburg (Saale);06406;113.53;32000;smaller
+Herrenberg;71083;65.7;31918;smaller
+Itzehoe;25524;28.54;31855;smaller
+Naumburg (Saale);06618;129.9;31815;smaller
+Georgsmarienhütte;49124;55.49;31790;smaller
+Radolfzell am Bodensee;78315;58.55;31582;smaller
+Nienburg (Weser);31582;64.53;31570;smaller
+Geesthacht;21502;33.25;31539;smaller
+Oer-Erkenschwick;45739;38.66;31395;smaller
+Hoyerswerda / Wojerecy;02977;94.99;31326;smaller
+Geestland;27607;356.56;31304;smaller
+Burgdorf;31303;112.56;31083;smaller
+Neuruppin;16816;305.2;31002;smaller
+Rheinberg;47495;75.24;30863;smaller
+Emmerich am Rhein;46446;80.4;30854;smaller
+Kreuztal;57223;71.07;30787;smaller
+Werl;59457;76.35;30736;smaller
+Altenburg;04600;45.69;30670;smaller
+Gevelsberg;58285;26.33;30669;smaller
+Lohmar;53797;65.62;30452;smaller
+Osterholz-Scharmbeck;27711;147.17;30438;smaller
+Einbeck;37574;231.92;30420;smaller
+Walsrode;29664;336.46;30370;smaller
+Ennepetal;58256;57.77;30306;smaller
+Haan;42781;24.19;30298;smaller
+Weil am Rhein;79576;19.46;30251;smaller
+Taunusstein;65232;67.02;30221;smaller
+Andernach;56626;53.34;30126;smaller
+Bad Hersfeld;36251;73.87;30101;smaller
+Schönebeck (Elbe);39218;86.08;30067;smaller
+Gaggenau;76571;65.01;30059;smaller
+Friedberg;86316;81.25;30056;smaller
+Bretten;75015;71.1;29927;smaller
+Schwedt/Oder;16303;252.18;29887;smaller
+Neuburg a.d.Donau;86633;81.29;29830;smaller
+Friedberg (Hessen);61169;50.18;29674;smaller
+Merzig;66663;108.98;29609;smaller
+Meschede;59872;218.52;29608;smaller
+Rietberg;33397;110.31;29564;smaller
+Waltrop;45731;47.09;29429;smaller
+Werne;59368;76.14;29355;smaller
+Landsberg am Lech;86886;57.91;29344;smaller
+Tönisvorst;47918;44.34;29257;smaller
+Schwandorf;92421;123.8;29254;smaller
+Oelde;59302;102.77;29210;smaller
+Vaihingen an der Enz;71665;73.4;29154;smaller
+Güstrow;18273;71.09;29026;smaller
+Northeim;37154;145.85;28981;smaller
+Rendsburg;24768;23.75;28977;smaller
+Springe;31832;160.13;28948;smaller
+Kelkheim (Taunus);65779;30.73;28913;smaller
+Mühlheim am Main;63165;20.67;28902;smaller
+Unterschleißheim;85716;14.93;28896;smaller
+Riesa;01589;58.91;28850;smaller
+Bühl;77815;73.18;28833;smaller
+Saalfeld/Saale;07318;145.56;28772;smaller
+Rösrath;51503;38.8;28712;smaller
+Winnenden;71364;45074;28569;smaller
+Schwelm;58332;45066;28501;smaller
+Höxter;37671;158.16;28467;smaller
+Idar-Oberstein;55743;91.58;28423;smaller
+Rödermark;63322;29.99;28361;smaller
+Mechernich;53894;136.48;28327;smaller
+Geislingen an der Steige;73312;75.83;28290;smaller
+Reinbek;21465;31.26;28277;smaller
+Wegberg;41844;84.34;28213;smaller
+Emmendingen;79312;33.78;28207;smaller
+Meißen;01662;30.92;28080;smaller
+Grimma;04668;218.23;28054;smaller
+Hattersheim am Main;65795;45153;28040;smaller
+Baunatal;34225;38.27;27906;smaller
+Kevelaer;47623;100.64;27891;smaller
+Königsbrunn;86343;45034;27888;smaller
+Leichlingen (Rheinland);42799;37.26;27868;smaller
+Geilenkirchen;52511;83.16;27836;smaller
+Verden (Aller);27283;71.69;27782;smaller
+Ludwigsfelde;14974;109.98;27658;smaller
+Olching;82140;29.92;27653;smaller
+Neukirchen-Vluyn;47506;43.5;27613;smaller
+Sundern (Sauerland);59846;193.27;27511;smaller
+Lohne (Oldenburg);49393;91.11;27387;smaller
+Teltow;14513;45098;27371;smaller
+Griesheim;64347;21.55;27357;smaller
+Baesweiler;52499;27.84;27351;smaller
+Arnstadt;99310;104.99;27330;smaller
+Wetter (Ruhr);58300;31.55;27236;smaller
+Overath;51491;68.88;27148;smaller
+Schloß Holte-Stukenbrock;33758;67.52;27120;smaller
+Strausberg;15344;67.94;27119;smaller
+Leimen;69181;20.64;27016;smaller
+Zeitz;06712;87.18;27003;smaller
+Wangen im Allgäu;88239;101.35;26956;smaller
+Weinstadt;71384;31.71;26902;smaller
+Hamminkeln;46499;164.53;26900;smaller
+Rheinbach;53359;69.72;26831;smaller
+Werder (Havel);14542;117.03;26767;smaller
+Ehingen (Donau);89584;178.33;26766;smaller
+Butzbach;35510;106.6;26660;smaller
+Hohen Neuendorf;16540;48.56;26658;smaller
+Bad Neuenahr-Ahrweiler;53474;63.39;26550;smaller
+Wiesloch;69168;30.24;26546;smaller
+Zirndorf;90513;28.79;26534;smaller
+Hennigsdorf;16761;31.48;26515;smaller
+Pfaffenhofen a.d.Ilm;85276;92.63;26453;smaller
+Lauf a.d.Pegnitz;91207;59.77;26387;smaller
+Heiligenhaus;42579;27.52;26367;smaller
+Heppenheim (Bergstraße);64646;52.12;26357;smaller
+Remseck am Neckar;71686;22.82;26346;smaller
+Aschersleben;06449;156.36;26328;smaller
+Neckarsulm;74172;24.94;26292;smaller
+Mühlacker;75417;54.32;26137;smaller
+Groß-Gerau;64521;54.47;26068;smaller
+Selm;59379;60.41;25983;smaller
+Nordenham;26954;87.78;25959;smaller
+Weiterstadt;64331;34.4;25942;smaller
+Achern;77855;65.24;25776;smaller
+Bingen am Rhein;55411;37.68;25757;smaller
+Bad Honnef;53604;48.14;25738;smaller
+Kulmbach;95311;92.77;25724;smaller
+Lübbecke;32312;65.04;25674;smaller
+Harsewinkel;33428;100.59;25575;smaller
+Lindau (Bodensee);88131;33.06;25547;smaller
+Schleswig;24837;45009;25510;smaller
+Friedrichsdorf;61381;30.13;25450;smaller
+Sangerhausen;06526;207.71;25419;smaller
+Rinteln;31737;109.02;25380;smaller
+Horb am Neckar;72160;119.76;25379;smaller
+St. Wendel;66606;113.53;25337;smaller
+Helmstedt;38350;66.74;25325;smaller
+Brilon;59929;229.16;25303;smaller
+Idstein;65510;79.76;25234;smaller
+Geretsried;82538;45101;25221;smaller
+Verl;33415;71.37;25177;smaller
+Lennestadt;57368;135.59;25176;smaller
+Weingarten;88250;42705;25168;smaller
+Roth;91154;96.33;25165;smaller
+Wiehl;51674;53.26;25088;smaller
+Öhringen;74613;67.79;25049;smaller
+Salzkotten;33154;109.8;25040;smaller
+Petershagen;32469;211.94;25027;smaller
+Rottweil;78628;71.76;24984;smaller
+Obertshausen;63179;13.62;24968;smaller
+Stutensee;76297;45.68;24924;smaller
+Pfungstadt;64319;42.54;24885;smaller
+Köthen (Anhalt);06366;77.46;24876;smaller
+Delitzsch;04509;85.92;24862;smaller
+Norden;26506;106.33;24855;smaller
+Lüdinghausen;59348;140.54;24847;smaller
+Bad Oldesloe;23843;52.59;24841;smaller
+Ditzingen;71254;30.38;24803;smaller
+Espelkamp;32339;84.21;24754;smaller
+Plettenberg;58840;96.75;24716;smaller
+Schmallenberg;57392;303.1;24704;smaller
+Meckenheim;53340;34.84;24693;smaller
+Olpe;57462;85.88;24677;smaller
+Sprockhövel;45549;47.94;24659;smaller
+Markkleeberg;04416;31.48;24643;smaller
+Ellwangen (Jagst);73479;127.38;24600;smaller
+Meiningen;98617;105.64;24538;smaller
+Zittau;02763;66.75;24517;smaller
+Rudolstadt;07407;135.18;24450;smaller
+Syke;28857;128.11;24365;smaller
+Warstein;59581;158.05;24325;smaller
+Staßfurt;39418;146.67;24265;smaller
+Bad Mergentheim;97980;129.96;24247;smaller
+Ronnenberg;30952;37.82;24239;smaller
+Attendorn;57439;97.92;24207;smaller
+Waldshut-Tiengen;79761;77.96;24207;smaller
+Haren (Ems);49733;208.79;24137;smaller
+Herzogenaurach;91074;47.62;24068;smaller
+Rathenow;14712;113.1;24063;smaller
+Übach-Palenberg;52531;45195;23979;smaller
+Varel;26316;113.75;23957;smaller
+Waldkraiburg;84478;21.56;23957;smaller
+Riedstadt;64560;73.73;23931;smaller
+Bedburg;50181;80.42;23867;smaller
+Sehnde;31319;103.58;23769;smaller
+Calw;75365;59.88;23742;smaller
+Freudenstadt;72250;87.54;23704;smaller
+Limbach-Oberfrohna;09212;50.21;23688;smaller
+Jüchen;41363;71.87;23611;smaller
+Husum;25813;45163;23478;smaller
+Starnberg;82319;61.85;23453;smaller
+Westerstede;26655;179.56;23452;smaller
+Quedlinburg;06484;120.52;23341;smaller
+Mosbach;74821;62.16;23307;smaller
+Hann. Münden;34346;121.17;23289;smaller
+Korbach;34497;124.11;23287;smaller
+Senftenberg/Zły Komorow;01968;127.56;23232;smaller
+Döbeln;04720;91.75;23232;smaller
+Dillenburg;35683;83.76;23230;smaller
+Gelnhausen;63571;45.15;23220;smaller
+Kaltenkirchen;24568;45253;23191;smaller
+Netphen;57250;137.39;23116;smaller
+Sonneberg;96515;84.69;23097;smaller
+Leutkirch im Allgäu;88299;174.97;23056;smaller
+Bad Soden am Taunus;65812;45058;23036;smaller
+Salzwedel;29410;304.57;22999;smaller
+Bad Salzungen;36433;152.02;22976;smaller
+Warburg;34414;168.84;22953;smaller
+Eisenhüttenstadt;15890;63.47;22919;smaller
+Gersthofen;86368;34.01;22847;smaller
+Karben;61184;43.94;22843;smaller
+Büdingen;63654;122.88;22831;smaller
+Wertheim;97877;138.59;22777;smaller
+Vreden;48691;135.83;22758;smaller
+Weilheim i.OB;82362;55.5;22703;smaller
+Herdecke;58313;22.39;22689;smaller
+Überlingen;88662;58.64;22684;smaller
+Neusäß;86356;25.22;22676;smaller
+Nagold;72202;63.1;22635;smaller
+Senden;89250;25.21;22625;smaller
+Bad Kissingen;97688;69.92;22619;smaller
+Friesoythe;26169;247.5;22612;smaller
+Laupheim;88471;61.79;22595;smaller
+Lengerich;49525;90.79;22527;smaller
+Kitzingen;97318;46.99;22429;smaller
+Eisleben;06295;143.94;22404;smaller
+Burg;39288;164.15;22254;smaller
+Apolda;99510;46.26;22232;smaller
+Stadthagen;31655;60.27;22210;smaller
+Rotenburg (Wümme);27356;99.06;22199;smaller
+Donaueschingen;78166;104.69;22150;smaller
+Metzingen;72555;34.55;22084;smaller
+Quickborn;25451;43.16;22015;smaller
+Eppingen;75031;88.58;22001;smaller
+Gardelegen;39638;633.23;21980;smaller
+Radevormwald;42477;53.86;21952;smaller
+Glauchau;08371;51.62;21914;smaller
+Waldkirch;79183;48.47;21899;smaller
+Bad Rappenau;74906;73.56;21876;smaller
+Heide;25746;31.97;21844;smaller
+Versmold;33775;85.57;21829;smaller
+Bad Harzburg;38667;65.52;21754;smaller
+Elsdorf;50189;66.17;21745;smaller
+Eschborn;65760;41609;21734;smaller
+Flörsheim am Main;65439;22.99;21671;smaller
+Hockenheim;68766;34.84;21620;smaller
+Sonthofen;87527;46.55;21589;smaller
+Halle (Westf.);33790;69.7;21574;smaller
+Eckernförde;24340;21.58;21573;smaller
+Aichach;86551;92.83;21515;smaller
+Xanten;46509;72.43;21502;smaller
+Spremberg/Grodk;03130;202.32;21464;smaller
+Schwetzingen;68723;45067;21435;smaller
+Geseke;59590;97.89;21411;smaller
+Seligenstadt;63500;30.85;21345;smaller
+Eislingen/Fils;73054;16.41;21329;smaller
+Büren;33142;170.99;21328;smaller
+Osterode am Harz;37520;102.54;21316;smaller
+Soltau;29614;203.77;21309;smaller
+Mühldorf a.Inn;84453;29.42;21254;smaller
+Zerbst/Anhalt;39261;468.94;21234;smaller
+Günzburg;89312;55.4;21233;smaller
+Puchheim;82178;45627;21221;smaller
+Waghäusel;68753;42.84;21178;smaller
+Stadtallendorf;35260;78.24;21121;smaller
+Waren (Müritz);17192;159.46;21116;smaller
+Rees;46459;109.86;21045;smaller
+Bad Krozingen;79189;35.69;21029;smaller
+Wülfrath;42489;32.27;21009;smaller
+Groß-Umstadt;64823;86.84;21001;smaller
+Schramberg;78713;80.7;20972;smaller
+Sondershausen;99706;201.21;20885;smaller
+Wipperfürth;51688;118.3;20879;smaller
+Traunstein;83278;48.57;20868;smaller
+Traunreut;83294;45.06;20861;smaller
+Germersheim;76726;21.68;20716;smaller
+Wildeshausen;27793;89.7;20667;smaller
+Nördlingen;86720;68.09;20644;smaller
+Bruchköbel;63486;29.69;20602;smaller
+Zülpich;53909;101.01;20597;smaller
+Schortens;26419;68.79;20590;smaller
+Mössingen;72116;50.03;20567;smaller
+Nidderau;61130;46.73;20539;smaller
+Meinerzhagen;58540;115.69;20535;smaller
+Luckenwalde;14943;46.61;20535;smaller
+Herborn;35745;63.76;20520;smaller
+Hörstel;48477;107.54;20506;smaller
+Enger;32130;41.24;20483;smaller
+Coswig;01640;25.88;20462;smaller
+Stadtlohn;48703;79.25;20458;smaller
+Fröndenberg/Ruhr;58730;56.23;20436;smaller
+Wittmund;26409;210.16;20433;smaller
+Schifferstadt;67105;45105;20403;smaller
+Werdau;08412;65.62;20381;smaller
+Rheinstetten;76287;32.31;20301;smaller
+Bad Schwartau;23611;18.39;20264;smaller
+Dingolfing;84130;44;20191;smaller
+Bad Waldsee;88339;108.55;20175;smaller
+Blieskastel;66440;108.21;20153;smaller
+Zossen;15806;180.39;20130;smaller
+Burgwedel;30938;152.85;20123;smaller
+Neustrelitz;17235;139.89;20103;smaller
+Duderstadt;37115;95.64;20097;smaller
+Lichtenfels;96215;122.16;20071;smaller
+Greiz;07973;84.86;20021;smaller
+Reichenbach im Vogtland;08468;34.47;19992;smaller
+Leinefelde-Worbis;37327;115.79;19986;smaller
+Telgte;48291;90.9;19982;smaller
+Oberkirch;77704;69.1;19929;smaller
+Schopfheim;79650;67.93;19922;smaller
+Ochtrup;48607;105.63;19893;smaller
+Aue-Bad Schlema;08280;36.43;19834;smaller
+Giengen an der Brenz;89537;44.07;19753;smaller
+Holzminden;37603;88.24;19745;smaller
+Tettnang;88069;71.25;19710;smaller
+Dillingen/ Saar;66763;45068;19668;smaller
+Gerlingen;70839;44943;19657;smaller
+Donauwörth;86609;77.04;19640;smaller
+Ennigerloh;59320;125.56;19639;smaller
+Torgau;04860;102.82;19625;smaller
+Waldbröl;51545;63.32;19618;smaller
+Schmalkalden;98574;105.38;19555;smaller
+Dillingen a.d.Donau;89407;75.59;19538;smaller
+Korntal-Münchingen;70825;20.71;19517;smaller
+Bad Friedrichshall;74177;24.71;19505;smaller
+Sarstedt;31157;43;19423;smaller
+Schenefeld;22869;36404;19402;smaller
+Marsberg;34431;182.22;19377;smaller
+Wittlich;54516;49.64;19345;smaller
+Bückeburg;31675;68.9;19336;smaller
+Rhede;46414;78.9;19336;smaller
+Mayen;56727;58.19;19335;smaller
+Mölln;23879;45071;19329;smaller
+Haiger;35708;106.73;19321;smaller
+Moosburg a.d.Isar;85368;43.85;19309;smaller
+Bad Pyrmont;31812;61.99;19285;smaller
+Eschwege;37269;63.26;19278;smaller
+Blankenburg (Harz);38889;148.98;19248;smaller
+Sachsenheim;74343;57.92;19202;smaller
+Oschersleben (Bode);39387;188.92;19193;smaller
+Müllheim;79379;57.91;19188;smaller
+Bad Aibling;83043;41.4;19164;smaller
+Heusenstamm;63150;45004;19160;smaller
+Weil der Stadt;71263;43.17;19157;smaller
+Hechingen;72379;66.41;19156;smaller
+Seesen;38723;102.32;19125;smaller
+Annaberg-Buchholz;09456;28.15;19118;smaller
+Sulzbach-Rosenberg;92237;53.12;19094;smaller
+Alzey;55232;35.22;19082;smaller
+Bad Tölz;83646;45168;19061;smaller
+Borna;04552;62.45;19031;smaller
+Haldensleben;39340;156.21;19028;smaller
+Bad Driburg;33014;115.3;18985;smaller
+Wolfratshausen;82515;41518;18984;smaller
+Schneverdingen;29640;234.92;18964;smaller
+Wassenberg;41849;42.43;18952;smaller
+Burghausen;84489;19.81;18862;smaller
+Nauen;14641;268.14;18854;smaller
+Hemmingen;30966;31.73;18845;smaller
+Marktoberdorf;87616;95.15;18769;smaller
+Pfullingen;72793;30.14;18749;smaller
+Sömmerda;99610;87.57;18717;smaller
+Bad Berleburg;57319;275.52;18709;smaller
+Prenzlau;17291;142.96;18706;smaller
+Lebach;66822;64.21;18694;smaller
+Burscheid;51399;27.33;18681;smaller
+Radeberg;01454;29.83;18675;smaller
+Bremervörde;27432;150.42;18666;smaller
+Kolbermoor;83059;19.83;18662;smaller
+Weißenburg i.Bay.;91781;97.58;18593;smaller
+Bad Dürkheim;67098;102.55;18576;smaller
+Schkeuditz;04435;81.47;18574;smaller
+Alfeld (Leine);31061;72.88;18550;smaller
+Alzenau;63755;59.3;18542;smaller
+Uetersen;25436;16011;18476;smaller
+Bad Reichenhall;83435;41.92;18456;smaller
+Renningen;71272;31.15;18435;smaller
+Bergneustadt;51702;37.89;18416;smaller
+Glinde;21509;44501;18376;smaller
+Vlotho;32602;76.93;18334;smaller
+Kronberg im Taunus;61476;18.58;18322;smaller
+Hochheim am Main;65239;19.47;18310;smaller
+Konz;54329;44.57;18295;smaller
+Wörth am Rhein;76744;131.62;18274;smaller
+Püttlingen;66346;23.95;18269;smaller
+Hessisch Oldendorf;31840;120.32;18228;smaller
+Crimmitschau;08451;61.15;18227;smaller
+Schwalmstadt;34613;84.79;18195;smaller
+Vellmar;34246;13.97;18166;smaller
+Lahnstein;56112;37.62;18111;smaller
+Großenhain;01558;130.36;17958;smaller
+Pohlheim;35415;38;17872;smaller
+Illertissen;89257;36.39;17843;smaller
+Auerbach/Vogtl.;08209;55.52;17804;smaller
+Bobingen;86399;50.26;17757;smaller
+Buchen (Odenwald);74722;138.93;17756;smaller
+Oberasbach;90522;45150;17749;smaller
+Frankenberg (Eder);35066;124.86;17739;smaller
+Werdohl;58791;33.38;17727;smaller
+Freudenberg;57258;54.6;17677;smaller
+Bad Saulgau;88348;97.33;17586;smaller
+Bad Säckingen;79713;25.35;17552;smaller
+Forst (Lausitz)/Baršć (Łužyca);03149;110.7;17545;smaller
+Bad Segeberg;23795;18.87;17529;smaller
+Schrobenhausen;86529;75.26;17505;smaller
+Bexbach;66450;31.09;17482;smaller
+Freilassing;83395;14.81;17472;smaller
+Parchim;19370;124.81;17467;smaller
+Remagen;53424;33.21;17456;smaller
+Bad Münder am Deister;31848;107.97;17447;smaller
+Sinzig;53489;41.1;17414;smaller
+Damme;49401;104.39;17366;smaller
+Nidda;63667;118.33;17314;smaller
+Garching b.München;85748;28.17;17300;smaller
+Sigmaringen;72488;92.84;17263;smaller
+Vilshofen an der Donau;94474;86.29;17240;smaller
+Bad Wildungen;34537;120.1;17231;smaller
+Diepholz;49356;104.7;17192;smaller
+Gescher;48712;80.84;17186;smaller
+Bad Langensalza;99947;129.37;17157;smaller
+Bad Münstereifel;53902;150.83;17152;smaller
+Horn-Bad Meinberg;32805;90.15;17142;smaller
+Stockach;78333;69.73;17118;smaller
+Trossingen;78647;44981;17095;smaller
+Cham;93413;80.69;17029;smaller
+Marktredwitz;95615;49.52;17019;smaller
+Kelsterbach;65451;15.41;17013;smaller
+Oerlinghausen;33813;32.69;17001;smaller
+Thale;06502;137.67;16994;smaller
+Kamenz / Kamjenc;01917;98.3;16985;smaller
+Bendorf;56170;45284;16962;smaller
+Eutin;23701;41.39;16948;smaller
+Schwarzenbek;21493;20394;16940;smaller
+Babenhausen;64832;66.85;16920;smaller
+Eltville am Rhein;65343;46.77;16911;smaller
+Heilbad Heiligenstadt;37308;70.87;16899;smaller
+Gunzenhausen;91710;82.72;16860;smaller
+Kronach;96317;66.98;16788;smaller
+Kelheim;93309;76.68;16779;smaller
+Ginsheim-Gustavsburg;65462;13.94;16761;smaller
+Hünfeld;36088;119.75;16748;smaller
+Wittenberge;19322;50.63;16682;smaller
+Bad Wörishofen;86825;57.79;16648;smaller
+Penzberg;82377;25.73;16553;smaller
+Königstein im Taunus;61462;45071;16540;smaller
+Heidenau;01809;45118;16540;smaller
+Marienberg;09496;133.49;16524;smaller
+Bürstadt;68642;34.46;16430;smaller
+Bad Lippspringe;33175;51.01;16424;smaller
+Altena;58762;44.42;16389;smaller
+Reinheim;64354;45134;16385;smaller
+Guben;03172;43.99;16377;smaller
+Blaustein;89134;55.61;16305;smaller
+Bassum;27211;168.85;16289;smaller
+Sulzbach/ Saar;66280;45123;16256;smaller
+Kirchhain;35274;90.95;16246;smaller
+Wurzen;04808;69;16238;smaller
+Straelen;47638;74;16232;smaller
+Pocking;94060;68.86;16223;smaller
+Brackenheim;74336;45.75;16219;smaller
+Brakel;33034;173.92;16195;smaller
+Freiberg am Neckar;71691;13.14;16153;smaller
+Raunheim;65479;45089;16137;smaller
+Halver;58553;77.23;16120;smaller
+Wendlingen am Neckar;73240;42339;16105;smaller
+Michelstadt;64720;86.98;16078;smaller
+Erwitte;59597;89.41;16043;smaller
+Kierspe;58566;71.91;16043;smaller
+Schwarzenberg/Erzgeb.;08340;46.31;16011;smaller
+Preetz;24211;45030;16005;smaller
+Bargteheide;22941;15.82;15987;smaller
+Zeulenroda-Triebes;07937;135.14;15986;smaller
+Markranstädt;04420;58.46;15981;smaller
+Bad Bentheim;48455;99.99;15948;smaller
+Alsfeld;36304;129.71;15945;smaller
+Schlüchtern;36381;113.3;15927;smaller
+Weener;26826;81.23;15927;smaller
+Bad Arolsen;34454;126.47;15825;smaller
+Füssen;87629;43.48;15800;smaller
+Marbach am Neckar;71672;45095;15797;smaller
+Königslutter am Elm;38154;131.13;15786;smaller
+Lübbenau/Spreewald / Lubnjow/Błota;03222;139.51;15761;smaller
+Finsterwalde;03238;77.52;15748;smaller
+Taucha;04425;33.22;15733;smaller
+Eilenburg;04838;46.84;15721;smaller
+Bitburg;54634;47.55;15700;smaller
+Wadern;66687;111.14;15697;smaller
+Künzelsau;74653;75.17;15637;smaller
+Drensteinfurt;48317;106.6;15607;smaller
+Breisach am Rhein;79206;54.59;15588;smaller
+Erlensee;63526;18.58;15579;smaller
+Altdorf b.Nürnberg;90518;48.59;15563;smaller
+Templin;17268;379.58;15540;smaller
+Ebersbach an der Fils;73061;26.26;15531;smaller
+Rahden;32369;137.48;15505;smaller
+Langenau;89129;75.03;15501;smaller
+Dieburg;64807;45161;15500;smaller
+Walldorf;69190;19.91;15473;smaller
+Ribnitz-Damgarten;18311;122.83;15451;smaller
+Boppard;56154;74.88;15403;smaller
+Mindelheim;87719;56.42;15364;smaller
+Eppelheim;69214;45112;15359;smaller
+Hofgeismar;34369;86.37;15309;smaller
+Stadtbergen;86391;18203;15307;smaller
+Neustadt in Holstein;23730;19.73;15288;smaller
+Bad Neustadt a.d.Saale;97616;36.9;15277;smaller
+Schwalbach am Taunus;65824;17319;15269;smaller
+Weißwasser/O.L.;02943;63.43;15255;smaller
+Gehrden;30989;43.27;15177;smaller
+Mainburg;84048;61.54;15165;smaller
+Bad Bramstedt;24576;24.14;15149;smaller
+Blomberg;32825;99.1;15095;smaller
+Munster;29633;194.52;15059;smaller
+Ober-Ramstadt;64372;41.88;15011;smaller
+Lohr a.Main;97816;90.42;14999;smaller
+Dorfen;84405;99.56;14992;smaller
+Langelsheim;38685;108.76;14990;smaller
+Landsberg;06188;125.44;14960;smaller
+Neustadt b.Coburg;96465;61.89;14951;smaller
+Witzenhausen;37213;126.78;14943;smaller
+Schriesheim;69198;31.61;14897;smaller
+Brake (Unterweser);26919;38.3;14884;smaller
+Markgröningen;71706;28.17;14865;smaller
+Karlstadt;97753;98.15;14864;smaller
+Bad Wurzach;88410;182.24;14827;smaller
+Clausthal-Zellerfeld;38678;43.69;14804;smaller
+Fritzlar;34560;88.81;14780;smaller
+Usingen;61250;55.81;14733;smaller
+Hückeswagen;42499;50.52;14706;smaller
+Kraichtal;76703;80.59;14703;smaller
+Selb;95100;86.07;14609;smaller
+Hilchenbach;57271;81.12;14583;smaller
+Schwabmünchen;86830;55.5;14553;smaller
+Jever;26441;42.23;14550;smaller
+Pattensen;30982;67.13;14525;smaller
+Münsingen;72525;116.93;14524;smaller
+Isny im Allgäu;88316;85.39;14518;smaller
+Neustadt a.d.Donau;93333;93.53;14495;smaller
+Wilsdruff;01723;81.6;14474;smaller
+Lauda-Königshofen;97922;94.44;14469;smaller
+Uhingen;73066;24.79;14439;smaller
+Neu-Anspach;61267;36.12;14439;smaller
+Plochingen;73207;23651;14433;smaller
+Langenselbold;63505;26.23;14421;smaller
+Ratzeburg;23909;30.29;14418;smaller
+Olsberg;59939;118;14410;smaller
+Ottweiler;66564;45.56;14395;smaller
+Montabaur;56410;33.77;14391;smaller
+Oberndorf am Neckar;78727;55.92;14372;smaller
+Stein;90547;19.51;14329;smaller
+Immenstadt i.Allgäu;87509;81.44;14315;smaller
+Spenge;32139;40.35;14313;smaller
+Eberbach;69412;81.15;14313;smaller
+Sandersdorf-Brehna;06792;81.89;14302;smaller
+Markdorf;88677;40.91;14284;smaller
+Abensberg;93326;60.26;14284;smaller
+Löbau;02708;78.9;14277;smaller
+Sassenberg;48336;78.08;14258;smaller
+Mittweida;09648;41.26;14209;smaller
+Gernsbach;76593;82.03;14171;smaller
+Bad Camberg;65520;54.6;14158;smaller
+Jessen (Elster);06917;352.25;14150;smaller
+Hohenstein-Ernstthal;09337;18.58;14142;smaller
+Tornesch;25436;20.61;14118;smaller
+Dippoldiswalde;01744;103.99;14096;smaller
+Burglengenfeld;93133;93.26;14086;smaller
+Uslar;37170;113.59;14062;smaller
+Wittstock/Dosse;16909;420.27;13995;smaller
+Neutraubling;93073;27638;13981;smaller
+Bebra;36179;93.71;13972;smaller
+Homberg (Efze);34576;100.11;13970;smaller
+Kalkar;47546;88.2;13953;smaller
+Lich;35423;77.61;13938;smaller
+Lübben (Spreewald) / Lubin (Błota);15907;120.85;13937;smaller
+Grafing b.München;85567;29.58;13936;smaller
+Lorsch;64653;25.24;13930;smaller
+Lauchhammer;01979;89.3;13930;smaller
+Murrhardt;71540;71.15;13924;smaller
+Leuna;06237;87.85;13899;smaller
+Oschatz;04758;55.44;13884;smaller
+Schwentinental;24223;17.81;13873;smaller
+Eggenfelden;84307;44.35;13853;smaller
+Hilpoltstein;91161;89.72;13852;smaller
+Lauterbach (Hessen);36341;101.98;13852;smaller
+Landau a.d.Isar;94405;84.4;13852;smaller
+Rotenburg a. d. Fulda;36199;79.97;13848;smaller
+Grünstadt;67269;45187;13840;smaller
+Zeven;27404;74.13;13828;smaller
+Wanzleben-Börde;39164;188.15;13821;smaller
+Erbach;64711;61.52;13818;smaller
+Vöhringen;89269;23.69;13800;smaller
+Erbach;89155;63.29;13797;smaller
+Meerane;08393;19.81;13781;smaller
+Weißenhorn;89264;53.72;13743;smaller
+Aßlar;35614;43.57;13725;smaller
+Frankenberg/Sa.;09669;65.62;13724;smaller
+Philippsburg;76661;50.54;13713;smaller
+Angermünde;16278;324.24;13696;smaller
+Melsungen;34212;63.09;13695;smaller
+Grünberg;35305;89.22;13694;smaller
+Schneeberg;08289;23.35;13685;smaller
+Eppstein;65817;24.19;13673;smaller
+Solms;35606;34.02;13670;smaller
+Buchloe;86807;36.18;13668;smaller
+Bergen auf Rügen;18528;51.49;13647;smaller
+Höchstadt a.d.Aisch;91315;70.87;13632;smaller
+Hettstedt;06333;36.93;13623;smaller
+Schmölln;04626;94.53;13620;smaller
+Quakenbrück;49610;17.96;13612;smaller
+Krumbach (Schwaben);86381;44.64;13610;smaller
+Ettenheim;77955;48.8;13603;smaller
+Haßfurt;97437;52.66;13596;smaller
+Löningen;49624;143.52;13592;smaller
+Oebisfelde-Weferlingen;39646;249.36;13544;smaller
+Bad Soden-Salmünster;63628;58.59;13540;smaller
+Pfullendorf;88630;90.5;13501;smaller
+Asperg;71679;45143;13486;smaller
+Eichstätt;85072;47.79;13465;smaller
+Holzgerlingen;71088;13.39;13453;smaller
+Spaichingen;78549;45064;13407;smaller
+Genthin;39307;230.76;13402;smaller
+Bad Dürrheim;78073;62.08;13397;smaller
+Wiesmoor;26639;82.94;13372;smaller
+Bergen;29303;164.4;13371;smaller
+Biedenkopf;35216;90.31;13361;smaller
+Bad Laasphe;57334;135.95;13337;smaller
+Neustadt a.d.Aisch;91413;61.21;13319;smaller
+Linden;35440;22.77;13300;smaller
+Pegnitz;91257;99.98;13298;smaller
+Dinklage;49413;72.81;13290;smaller
+Sendenhorst;48324;96.95;13279;smaller
+Bad Salzdetfurth;31162;67.2;13266;smaller
+Neckargemünd;69151;26.16;13262;smaller
+Tauberbischofsheim;97941;69.29;13238;smaller
+Zehdenick;16792;223.06;13222;smaller
+Wolfhagen;34466;112.29;13205;smaller
+Velen;46342;70.75;13198;smaller
+Haselünne;49740;159.43;13196;smaller
+Südliches Anhalt;06369;192.63;13146;smaller
+Wehr;79664;35.64;13090;smaller
+Beverungen;37688;98.09;13083;smaller
+Pfarrkirchen;84347;52.35;13073;smaller
+Herbrechtingen;89542;58.63;13070;smaller
+Rödental;96472;49.97;13046;smaller
+Olfen;59399;52.43;13040;smaller
+Östringen;76684;53.28;13012;smaller
+Sulingen;27232;110.83;13005;smaller
+Plattling;94447;35.9;13001;smaller
+St. Georgen im Schwarzwald;78112;59.85;12998;smaller
+Altötting;84503;45130;12983;smaller
+Fehmarn;23769;185.5;12971;smaller
+Schleiden;53937;121.67;12956;smaller
+Treuchtlingen;91757;103.38;12951;smaller
+Weilburg;35781;57.51;12939;smaller
+Schüttorf;48465;19.45;12934;smaller
+Beelitz;14547;181.3;12880;smaller
+Rosbach v. d. Höhe;61191;45.33;12838;smaller
+Hadamar;65589;40.99;12836;smaller
+Linnich;52441;65.43;12835;smaller
+Wasserburg a.Inn;83512;45156;12800;smaller
+Wächtersbach;63607;50.79;12797;smaller
+Möckern;39291;524.35;12778;smaller
+Besigheim;74354;16.83;12772;smaller
+Hungen;35410;86.78;12765;smaller
+Weinsberg;74189;22.22;12753;smaller
+Bad Doberan;18209;32.85;12752;smaller
+Herzberg am Harz;37412;71.88;12723;smaller
+Waltershausen;99880;60.62;12664;smaller
+Feuchtwangen;91555;137.21;12599;smaller
+Roding;93426;119.61;12587;smaller
+Steinheim;32839;75.69;12572;smaller
+Bad Urach;72574;55.42;12561;smaller
+Sulz am Neckar;72172;87.62;12560;smaller
+Hersbruck;91217;45191;12548;smaller
+Zella-Mehlis;98544;52.99;12532;smaller
+Twistringen;27239;114.38;12527;smaller
+Blaubeuren;89143;79.11;12504;smaller
+Borken (Hessen);34582;82.46;12440;smaller
+Röthenbach a.d.Pegnitz;90552;14.29;12431;smaller
+Winterberg;59955;147.95;12427;smaller
+Velten;16727;23.42;12405;smaller
+Schongau;86956;21.34;12401;smaller
+Jüterbog;14913;176.48;12382;smaller
+Brunsbüttel;25541;65.21;12381;smaller
+Preußisch Oldendorf;32361;68.76;12375;smaller
+Bad Windsheim;91438;78.24;12371;smaller
+Hessisch Lichtenau;37235;105.72;12360;smaller
+Vilsbiburg;84137;68.84;12325;smaller
+Neuenburg am Rhein;79395;44.1;12314;smaller
+Frohburg;04654;145.29;12311;smaller
+Gladenbach;35075;72.28;12294;smaller
+Gaildorf;74405;62.59;12268;smaller
+Bad Freienwalde (Oder);16259;131.11;12231;smaller
+Ebersberg;85560;40.84;12210;smaller
+Bad Fallingbostel;29683;63.7;12209;smaller
+Bad Wünnenberg;33181;161.3;12202;smaller
+Titisee-Neustadt;79822;89.64;12197;smaller
+Anklam;17389;56.68;12177;smaller
+Burladingen;72393;123.3;12169;smaller
+Wernau (Neckar);73249;32782;12164;smaller
+Hagenow;19230;67.54;12146;smaller
+Laichingen;89150;69.83;12118;smaller
+Steinheim an der Murr;71711;23.18;12087;smaller
+Ladenburg;68526;19;12076;smaller
+Ludwigslust;19288;78.64;12070;smaller
+Dinkelsbühl;91550;75.16;12053;smaller
+Maxhütte-Haidhof;93142;34.69;12027;smaller
+Perleberg;19348;138.69;12007;smaller
+Osterhofen;94486;111.16;11920;smaller
+Wolgast;17438;61.73;11890;smaller
+Erkner;15537;16.53;11840;smaller
+Zwönitz;08297;64.24;11836;smaller
+Neustadt in Sachsen;01844;83.12;11823;smaller
+Leingarten;74211;23.47;11772;smaller
+Lauffen am Neckar;74348;22.63;11755;smaller
+Pritzwalk;16928;167.46;11741;smaller
+Hemsbach;69502;31382;11740;smaller
+Oestrich-Winkel;65375;59.51;11723;smaller
+Hauzenberg;94051;82.79;11703;smaller
+Neuenrade;58809;54.1;11663;smaller
+Hildburghausen;98646;72.89;11660;smaller
+Pößneck;07381;24.43;11654;smaller
+Monschau;52156;94.6;11645;smaller
+Lauenburg/ Elbe;21481;20699;11644;smaller
+Bopfingen;73441;76.96;11621;smaller
+Drolshagen;57489;67.11;11618;smaller
+Walldürn;74731;105.91;11612;smaller
+Lindenberg i.Allgäu;88161;30987;11585;smaller
+Geisenfeld;85290;88.3;11569;smaller
+Ebersbach-Neugersdorf;02730;20.45;11526;smaller
+Billerbeck;48727;91.36;11525;smaller
+Geisenheim;65366;40.34;11515;smaller
+Coswig (Anhalt);06869;295.61;11494;smaller
+Miesbach;83714;32.44;11469;smaller
+Schwaigern;74193;49.49;11438;smaller
+Gräfenhainichen;06773;159.54;11413;smaller
+Wittingen;29378;225.83;11405;smaller
+Bad Dürrenberg;06231;36.15;11389;smaller
+Wolmirstedt;39326;54.27;11371;smaller
+Trostberg;83308;51.55;11355;smaller
+Marktheidenfeld;97828;35.7;11292;smaller
+Bad Schwalbach;65307;40.27;11277;smaller
+Ochsenfurt;97199;63.57;11263;smaller
+Rheinau;77866;73.5;11249;smaller
+Mülheim-Kärlich;56218;16.42;11248;smaller
+Rothenburg ob der Tauber;91541;41.67;11238;smaller
+Welzheim;73642;37.99;11219;smaller
+Bad Nenndorf;31542;23.22;11189;smaller
+Stollberg/Erzgeb.;09366;38.99;11166;smaller
+Herbolzheim;79336;35.48;11156;smaller
+Lauingen (Donau);89415;44.39;11137;smaller
+Schöningen;38364;35.47;11121;smaller
+Werther (Westf.);33824;35.42;11108;smaller
+Engen;78234;70.56;11101;smaller
+Balve;58802;74.81;11092;smaller
+Diez;65582;15311;11092;smaller
+Bad Belzig;14806;236.07;11053;smaller
+Osterwieck;38835;212.91;11012;smaller
+Braunfels;35619;47.28;10994;smaller
+Lichtenstein/Sa.;09350;15.47;10975;smaller
+Gengenbach;77723;61.9;10946;smaller
+Lorch;73547;34.28;10929;smaller
+Isselburg;46419;42.8;10928;smaller
+Oelsnitz/Erzgeb.;09376;26.28;10902;smaller
+Waldkirchen;94065;80.01;10901;smaller
+Regen;94209;65.14;10868;smaller
+Hammelburg;97762;128.88;10859;smaller
+Wildau;15745;45239;10848;smaller
+Haigerloch;72401;76.44;10836;smaller
+Rutesheim;71277;16.22;10820;smaller
+Altensteig;72213;53.19;10806;smaller
+Donzdorf;73072;39.82;10795;smaller
+Gernsheim;64579;40.11;10772;smaller
+Meßstetten;72469;76.8;10766;smaller
+Rüthen;59602;158.15;10753;smaller
+Riedlingen;88499;64.96;10741;smaller
+Glückstadt;25348;22.75;10719;smaller
+Gronau (Leine);31028;88.39;10690;smaller
+Boizenburg/ Elbe;19258;47.42;10689;smaller
+Lichtenau;33165;192.57;10685;smaller
+Langenzenn;90579;46.33;10684;smaller
+Eisenberg;07607;24.67;10673;smaller
+Schleusingen;98553;125.59;10656;smaller
+Steinbach (Taunus);61449;45020;10647;smaller
+Felsberg;34587;83.32;10638;smaller
+Bischofswerda;01877;46.21;10623;smaller
+Kenzingen;79341;36.93;10614;smaller
+Olbernhau;09526;125.35;10570;smaller
+Bad Iburg;49186;36.47;10559;smaller
+Tangerhütte;39517;294.99;10544;smaller
+Barmstedt;25355;17.17;10542;smaller
+Bad Staffelstein;96231;99.51;10481;smaller
+Flöha;09557;27.76;10458;smaller
+Büdelsdorf;24782;17685;10456;smaller
+Gommern;39245;160.11;10452;smaller
+Nossen;01683;122.74;10446;smaller
+Grevesmühlen;23936;52.38;10440;smaller
+Burgstädt;09217;25.88;10436;smaller
+Braunsbedra;06242;74.31;10432;smaller
+Bad Wildbad;75323;105.22;10397;smaller
+Dissen am Teutoburger Wald;49201;31.9;10369;smaller
+Neuenhaus;49828;31.37;10356;smaller
+Tangermünde;39590;89.98;10350;smaller
+Nieder-Olm;55268;44866;10348;smaller
+Demmin;17109;82.06;10337;smaller
+Bad Orb;63619;47.75;10333;smaller
+Querfurt;06268;155.62;10321;smaller
+Lollar;35457;21.39;10315;smaller
+Wildberg;72218;56.68;10306;smaller
+Endingen am Kaiserstuhl;79346;45133;10296;smaller
+Bad Lauterberg im Harz;37431;41.56;10290;smaller
+Burgau;89331;25.92;10278;smaller
+Aulendorf;88326;52.33;10277;smaller
+Weilheim an der Teck;73235;26.51;10269;smaller
+Werlte;49757;63.81;10259;smaller
+Erlenbach a.Main;63906;16.31;10256;smaller
+Steinau an der Straße;36396;104.86;10236;smaller
+Neuenstadt am Kocher;74196;41.17;10211;smaller
+Nideggen;52385;65.04;10204;smaller
+Oberzent;64760;165.61;10198;smaller
+Neustadt (Hessen);35279;56.86;10177;smaller
+Süßen;73079;29190;10143;smaller
+Niebüll;25899;30.63;10139;smaller
+Bleicherode;99752;108.17;10129;smaller
+Bogen;94327;49.74;10121;smaller
+Simbach a.Inn;84359;47.33;10111;smaller
+Rehburg-Loccum;31547;99.97;10107;smaller
+Blumberg;78176;98.72;10103;smaller
+Betzdorf;57518;20699;10099;smaller
+Münchberg;95213;68.78;10049;smaller
+Gemünden a.Main;97737;75.06;10017;smaller
+Schotten;63679;133.56;9999;smaller
+Beilngries;92339;100.02;9993;smaller
+Oelsnitz/Vogtl.;08606;53.66;9988;smaller
+Wahlstedt;23812;15.75;9958;smaller
+Friedrichsthal;66299;36373;9955;smaller
+Bad Frankenhausen/Kyffhäuser;06567;91.06;9951;smaller
+Niddatal;61194;40.25;9925;smaller
+Rüdesheim am Rhein;65385;51.41;9921;smaller
+Aichtal;72631;45100;9919;smaller
+Meuselwitz;04610;53.66;9897;smaller
+Heubach;73540;25.78;9892;smaller
+Oldenburg in Holstein;23758;39.69;9881;smaller
+Oberharz am Brocken;38875;271.52;9873;smaller
+Bad König;64732;46.73;9861;smaller
+Mengen;88512;49.82;9850;smaller
+Pasewalk;17309;55.21;9841;smaller
+Heilsbronn;91560;62.23;9825;smaller
+Gudensberg;34281;46.49;9815;smaller
+Wettin-Löbejün;06193;127.13;9794;smaller
+Bad Ems;56130;15.41;9761;smaller
+Trebbin;14959;126.36;9760;smaller
+Schlitz;36110;142.06;9726;smaller
+Bad Liebenzell;75378;33.78;9712;smaller
+Klötze;38486;278.73;9680;smaller
+Bad Breisig;53498;19.93;9671;smaller
+Bockenem;31167;109.96;9666;smaller
+Großröhrsdorf;01900;40.94;9661;smaller
+Altlandsberg;15345;106.6;9654;smaller
+Brandis;04821;34.89;9646;smaller
+Fürstenau;49584;78.64;9621;smaller
+Bleckede;21354;140.65;9613;smaller
+Visselhövede;27374;159.2;9589;smaller
+Laubach;35321;97.01;9569;smaller
+Osthofen;67574;18.62;9528;smaller
+Ohrdruf;99885;113.6;9525;smaller
+Wilkau-Haßlau;08112;24077;9520;smaller
+Mittenwalde;15749;99.13;9515;smaller
+Dassel;37586;113.24;9511;smaller
+Osterburg (Altmark);39606;229.81;9500;smaller
+Ilsenburg (Harz);38871;62.97;9497;smaller
+Bad Gandersheim;37581;90.85;9476;smaller
+Kemberg;06901;235.25;9473;smaller
+Luckau;15926;207.44;9466;smaller
+Hemau;93155;122.34;9456;smaller
+Steinbach-Hallenberg;98587;76.73;9435;smaller
+Runkel;65594;43.71;9427;smaller
+Wertingen;86637;51.88;9415;smaller
+Töging a.Inn;84513;13.65;9407;smaller
+Lüchow (Wendland);29439;89.46;9407;smaller
+Hohenmölsen;06679;75.31;9405;smaller
+Bad Bevensen;29549;48.37;9400;smaller
+Storkow (Mark);15859;180.71;9373;smaller
+Höhr-Grenzhausen;56203;15.88;9368;smaller
+Miltenberg;63897;60.25;9359;smaller
+Ichenhausen;89335;34.27;9329;smaller
+Rehau;95111;80.33;9324;smaller
+Eisenberg (Pfalz);67304;18.75;9313;smaller
+Obernkirchen;31683;32.45;9288;smaller
+Heiligenhafen;23774;18.32;9283;smaller
+Werneuchen;16356;117.02;9261;smaller
+Grimmen;18507;50.51;9260;smaller
+Sebnitz;01855;88.23;9248;smaller
+Zwenkau;04442;46.29;9246;smaller
+Lügde;32676;88.64;9244;smaller
+Bad Liebenwerda;04924;138.88;9242;smaller
+Tecklenburg;49545;70.49;9229;smaller
+Nittenau;93149;98.73;9210;smaller
+Wunsiedel;95632;54.88;9177;smaller
+Weißenthurm;56575;36220;9171;smaller
+Kyritz;16866;157.39;9155;smaller
+Zahna-Elster;06895;148.63;9143;smaller
+Zörbig;06780;113.69;9139;smaller
+Niesky;02906;53.82;9130;smaller
+Freystadt;92342;80.56;9116;smaller
+Elsfleth;26931;115.19;9113;smaller
+Sassnitz;18546;47.41;9064;smaller
+Brand-Erbisdorf;09618;46.33;9059;smaller
+Bad Griesbach i.Rottal;94086;70.13;9047;smaller
+Laufenburg (Baden);79725;23.57;9045;smaller
+Rain;86641;77.13;9042;smaller
+Mendig;56743;23.75;9032;smaller
+Reinfeld (Holstein);23858;17.37;9029;smaller
+Neustadt an der Orla;07806;86.08;9022;smaller
+Kandel;76870;26.69;9017;smaller
+Borgholzhausen;33829;55.99;9001;smaller
+Ochsenhausen;88416;59.96;8991;smaller
+Zwiesel;94227;41.16;8984;smaller
+Elze;31008;47.81;8973;smaller
+Berching;92334;131.18;8957;smaller
+Plön;24306;36.76;8943;smaller
+Wetter (Hessen);35083;104.53;8940;smaller
+Waldheim;04736;41.71;8932;smaller
+Zschopau;09405;22.79;8932;smaller
+Torgelow;17358;72.19;8929;smaller
+Bad Schussenried;88427;55.01;8925;smaller
+Furth im Wald;93437;67.06;8921;smaller
+Breckerfeld;58339;59.09;8915;smaller
+Ortenberg;63683;54.7;8892;smaller
+Auerbach i.d.OPf.;91275;78.26;8880;smaller
+Furtwangen im Schwarzwald;78120;82.57;8876;smaller
+Raguhn-Jeßnitz;06779;97.29;8862;smaller
+Bad Lauchstädt;06246;85.37;8849;smaller
+Hemmoor;21745;45.07;8843;smaller
+Ballenstedt;06493;86.75;8825;smaller
+Neuötting;84524;36.6;8817;smaller
+Bersenbrück;49593;42.54;8810;smaller
+Vallendar;56179;13.22;8808;smaller
+Schleiz;07907;108.21;8800;smaller
+Florstadt;61197;39.6;8798;smaller
+Hallstadt;96103;45091;8795;smaller
+Volkach;97332;60.19;8782;smaller
+Neuhaus am Rennweg;98724;108.22;8778;smaller
+Naunhof;04683;39.71;8735;smaller
+Rauenberg;69231;45271;8728;smaller
+Herzberg (Elster);04916;149.01;8711;smaller
+Waldenbuch;71111;45129;8705;smaller
+Barth;18356;41.18;8692;smaller
+Borgentreich;34434;138.94;8638;smaller
+Doberlug-Kirchhain;03253;150.36;8633;smaller
+Nierstein;55283;19.34;8625;smaller
+Obernburg a.Main;63785;24.82;8609;smaller
+Vohburg a.d.Donau;85088;45.17;8605;smaller
+Tirschenreuth;95643;103.95;8594;smaller
+Penig;09322;63.37;8578;smaller
+Kappeln;24376;43.33;8573;smaller
+Mücheln (Geiseltal);06249;98.57;8513;smaller
+Meßkirch;88605;76.22;8513;smaller
+Barntrup;32683;59.46;8502;smaller
+Mansfeld;06343;143.76;8480;smaller
+Bad Sooden-Allendorf;37242;73.75;8478;smaller
+Lauter-Bernsbach;08315;30.28;8476;smaller
+Rottenburg a.d.Laaber;84056;90.11;8475;smaller
+Ueckermünde;17373;85.87;8457;smaller
+Bad Bergzabern;76887;26207;8454;smaller
+Lützen;06686;96.49;8443;smaller
+Hainichen;09661;51.74;8438;smaller
+Staufenberg;35460;28.58;8436;smaller
+Großbottwar;71723;25.51;8403;smaller
+Kuppenheim;76456;45156;8399;smaller
+Kirchen (Sieg);57548;39.76;8380;smaller
+Viechtach;94234;62.46;8379;smaller
+Großräschen/Rań;01983;81.86;8378;smaller
+Stadtilm;99326;120.26;8376;smaller
+Helmbrechts;95233;58.72;8368;smaller
+Neuenbürg;75305;28.15;8357;smaller
+Landstuhl;66849;15.34;8356;smaller
+Kandern;79400;62.26;8348;smaller
+Colditz;04680;84.09;8313;smaller
+Teterow;17166;47.07;8310;smaller
+Schieder-Schwalenberg;32816;60.04;8308;smaller
+Wissen;57537;34.88;8302;smaller
+Premnitz;14727;46.27;8290;smaller
+Neunburg vorm Wald;92431;110.14;8275;smaller
+Möckmühl;74219;49.6;8244;smaller
+Bönnigheim;74357;20.13;8238;smaller
+Staufen im Breisgau;79219;23.32;8235;smaller
+Kirn;55606;16.53;8209;smaller
+Leisnig;04703;78.09;8207;smaller
+Arnstein;97450;112.1;8195;smaller
+Wörrstadt;55286;16.75;8189;smaller
+Herrieden;91567;81.66;8184;smaller
+Calbe (Saale);39240;56.69;8179;smaller
+Weida;07570;36.8;8173;smaller
+Barby;39249;153.2;8173;smaller
+Knittlingen;75438;26.33;8158;smaller
+Grafenau;94475;63.73;8151;smaller
+Kellinghusen;25548;18.81;8150;smaller
+Lauta;02991;42.14;8142;smaller
+Zell am Harmersbach;77736;36.41;8134;smaller
+Willebadessen;34439;128.41;8133;smaller
+Bad Herrenalb;76332;33.01;8131;smaller
+Bad Lausick;04651;70.02;8113;smaller
+Dornstetten;72280;44981;8112;smaller
+Könnern;06420;125.35;8109;smaller
+Dannenberg (Elbe);29451;76.61;8106;smaller
+Bad Schmiedeberg;06905;160.3;8093;smaller
+Kirchberg;08107;39.56;8093;smaller
+Beeskow;15848;77.79;8082;smaller
+Oranienbaum-Wörlitz;06785;115.53;8063;smaller
+Daun;54550;49.02;8059;smaller
+Bismark (Altmark);39629;289.49;8057;smaller
+Ramstein-Miesenbach;66877;43.01;8057;smaller
+Hermsdorf;07629;18080;8052;smaller
+Baiersdorf;91083;29891;8011;smaller
+Neresheim;73450;118.51;7978;smaller
+Medebach;59964;126.05;7974;smaller
+Teuchern;06682;81.36;7974;smaller
+Bützow;18246;39.85;7970;smaller
+Kühlungsborn;18225;16.17;7964;smaller
+Ransbach-Baumbach;56235;42339;7959;smaller
+Schweich;54338;45169;7940;smaller
+Gundelfingen a.d.Donau;89423;54.06;7934;smaller
+Lößnitz;08294;30.49;7902;smaller
+Kirchheimbolanden;67292;26.36;7893;smaller
+Oberkochen;73447;23.55;7884;smaller
+Simmern/ Hunsrück;55469;35370;7874;smaller
+Rheinsberg;16831;328.14;7871;smaller
+Hüfingen;78183;58.53;7859;smaller
+Klingenthal;08248;50.44;7853;smaller
+Oederan;09569;77.33;7832;smaller
+Lugau/Erzgeb.;09385;22.29;7824;smaller
+Vetschau/Spreewald / Wětošow/Błota;03226;111.42;7819;smaller
+Elsterwerda;04910;40.58;7805;smaller
+Altenberg;01773;145.9;7805;smaller
+Bad Düben;04849;45.8;7791;smaller
+Falkenstein/Vogtl.;08223;31.06;7748;smaller
+Treuen;08233;43.74;7730;smaller
+Kremmen;16766;209.54;7710;smaller
+Gerolstein;54568;64.43;7710;smaller
+Bad Liebenstein;36448;48.81;7700;smaller
+Bad Sulza;99518;91.14;7695;smaller
+Seeland;06469;78.93;7681;smaller
+Teublitz;93158;38.23;7678;smaller
+Calau/Kalawa;03205;163.49;7650;smaller
+Sontra;36205;111.28;7642;smaller
+Löffingen;79843;88.02;7612;smaller
+Groitzsch;04539;70.17;7586;smaller
+Breuberg;64747;30.76;7584;smaller
+Naila;95119;37.04;7580;smaller
+Belgern-Schildau;04874;158.99;7579;smaller
+Hardegsen;37181;84.03;7578;smaller
+Allstedt;06542;149.85;7573;smaller
+Oppenheim;55276;44933;7571;smaller
+Vohenstrauß;92648;74.91;7563;smaller
+Harzgerode;06493;164.68;7559;smaller
+Gundelsheim;74831;38.44;7516;smaller
+Saarburg;54439;20.63;7509;smaller
+Weikersheim;97990;80.93;7494;smaller
+Kalbe (Milde);39624;272.84;7488;smaller
+Treuenbrietzen;14929;212.43;7485;smaller
+Homberg (Ohm);35315;88.04;7472;smaller
+Münnerstadt;97702;93.11;7468;smaller
+Eisfeld;98673;86.52;7454;smaller
+Otterndorf;21762;33.55;7443;smaller
+Parsberg;92331;57.32;7432;smaller
+Pockau-Lengefeld;09514;83.43;7415;smaller
+Renchen;77871;32.08;7414;smaller
+Leipheim;89340;32.16;7386;smaller
+Bad Berka;99438;55.32;7379;smaller
+Laufen;83410;35.28;7373;smaller
+Roßwein;04741;44.1;7369;smaller
+Aken (Elbe);06385;59.81;7363;smaller
+Ebern;96106;95.01;7359;smaller
+Elzach;79215;75.28;7347;smaller
+Bad Kötzting;93444;62.15;7346;smaller
+Pulsnitz;01896;26.76;7345;smaller
+Bad Sachsa;37441;33.2;7322;smaller
+Meldorf;25704;21.26;7289;smaller
+Esens;26427;21.67;7288;smaller
+Bad Wimpfen;74206;19.38;7286;smaller
+Malchin;17139;109.28;7282;smaller
+Radeburg;01471;54.02;7278;smaller
+Königsee;07426;103.01;7277;smaller
+Markneukirchen;08258;69.06;7261;smaller
+Scheßlitz;96110;94.87;7249;smaller
+Roßleben-Wiehe;06571;73.08;7246;smaller
+Dettelbach;97337;60.94;7220;smaller
+Zwingenberg;64673;24228;7202;smaller
+Freyung;94078;48.63;7167;smaller
+Gedern;63688;75.24;7165;smaller
+Haslach im Kinzigtal;77716;18.67;7152;smaller
+Friedrichroda;99894;36.87;7115;smaller
+Bernkastel-Kues;54470;23.71;7114;smaller
+Heringen (Werra);36266;61.2;7100;smaller
+Annweiler am Trifels;76855;39.87;7099;smaller
+Wriezen;16269;95.14;7094;smaller
+Am Ettersberg;99439;92.44;7081;smaller
+Birkenfeld;55765;13.64;7075;smaller
+Greding;91171;103.73;7075;smaller
+Eibenstock;08309;112.24;7075;smaller
+Müncheberg;15374;152.29;7042;smaller
+Immenhausen;34376;28.54;6994;smaller
+Lengenfeld;08485;46.98;6994;smaller
+Neustadt-Glewe;19306;94.12;6969;smaller
+Bonndorf im Schwarzwald;79848;75.91;6969;smaller
+Moringen;37186;82.39;6956;smaller
+Ilshofen;74532;54.87;6947;smaller
+Polch;56751;28.68;6939;smaller
+Geiselhöring;94333;99.69;6930;smaller
+Ebermannstadt;91320;49.95;6924;smaller
+Nortorf;24589;28460;6913;smaller
+Neukirchen;34626;66.25;6906;smaller
+Gröditz;01609;28.94;6893;smaller
+Schelklingen;89601;75.87;6882;smaller
+Gerbstedt;06347;102.31;6881;smaller
+Gau-Algesheim;55435;13.99;6878;smaller
+Gerolzhofen;97447;18.39;6867;smaller
+Höchstädt a.d.Donau;89420;37.45;6860;smaller
+Dietenheim;89165;18.75;6859;smaller
+Reichelsheim (Wetterau);61203;27.56;6853;smaller
+Horstmar;48612;44.76;6849;smaller
+Dingelstädt;37351;59.39;6847;smaller
+Hecklingen;39444;95.34;6827;smaller
+Schwarzenbach a.d.Saale;95120;59.18;6821;smaller
+Hermeskeil;54411;30.89;6820;smaller
+Hartha;04746;54.4;6813;smaller
+Arendsee (Altmark);39619;269.71;6791;smaller
+Jerichow;39319;270.07;6788;smaller
+Geithain;04643;54.71;6775;smaller
+Waldeck;34513;115.7;6768;smaller
+Volkmarsen;34471;67.47;6736;smaller
+Böhlen;04564;25.27;6733;smaller
+Kahla;07768;45176;6724;smaller
+Rodalben;66976;15.69;6703;smaller
+Römhild;98630;122.45;6697;smaller
+Glashütte;01768;95.64;6693;smaller
+Buttstädt;99628;104.8;6673;smaller
+Boxberg;97944;101.71;6662;smaller
+Edenkoben;67480;17.89;6660;smaller
+Uffenheim;97215;59.46;6650;smaller
+Neuenstein;74632;47.84;6646;smaller
+Waldsassen;95652;66.53;6643;smaller
+Herdorf;57562;17.99;6615;smaller
+Ketzin/Havel;14669;93.64;6609;smaller
+Waldmünchen;93449;101.17;6607;smaller
+Maulbronn;75433;45041;6585;smaller
+Osterburken;74706;47.32;6577;smaller
+Stadtroda;07646;24.18;6570;smaller
+Blankenhain;99444;113.75;6542;smaller
+Vilseck;92249;64.69;6540;smaller
+Artern;06556;45.05;6538;smaller
+Bad Brückenau;97769;23.71;6535;smaller
+Mitterteich;95666;39.38;6533;smaller
+Annaburg;06925;225.59;6528;smaller
+Zierenberg;34289;86.55;6520;smaller
+Malchow;17213;44.71;6512;smaller
+Pegau;04523;48.77;6510;smaller
+Rodenberg;31552;15.61;6502;smaller
+Bad Sobernheim;55566;54.18;6479;smaller
+Grafenwöhr;92655;216.21;6451;smaller
+Laage;18299;114.9;6450;smaller
+Burgkunstadt;96224;40.6;6449;smaller
+Heitersheim;79423;26238;6436;smaller
+Rosenfeld;72348;51.11;6436;smaller
+Friedland;17098;141.79;6423;smaller
+Arnstein;06456;121.7;6412;smaller
+Güglingen;74363;16.27;6411;smaller
+Bad Rodach;96476;77.65;6406;smaller
+Havelberg;39539;149.22;6397;smaller
+Thannhausen;86470;45005;6390;smaller
+Neumarkt-Sankt Veit;84494;61.07;6389;smaller
+Wittenburg;19243;80.08;6355;smaller
+Geisingen;78187;73.75;6347;smaller
+Gammertingen;72501;52.97;6331;smaller
+Glücksburg (Ostsee);24960;39.68;6326;smaller
+Werra-Suhl-Tal;99837;77.67;6325;smaller
+Bernsdorf;02994;59.86;6307;smaller
+Trochtelfingen;72818;79.2;6298;smaller
+Falkenberg/Elster;04895;82.16;6296;smaller
+Zell im Wiesental;79669;36.12;6289;smaller
+Großalmerode;37247;37.59;6289;smaller
+Linz am Rhein;53545;17.98;6273;smaller
+Rodewisch;08228;26.88;6260;smaller
+Altenkirchen (Westerwald);57610;36069;6255;smaller
+Rötha;04571;45.41;6254;smaller
+Klingenberg a.Main;63911;21.13;6253;smaller
+Neuffen;72639;17.43;6251;smaller
+Kölleda;99625;89.52;6228;smaller
+Nabburg;92507;62.36;6224;smaller
+Alpirsbach;72275;64.56;6198;smaller
+Beilstein;71717;25.24;6198;smaller
+Hachenburg;57627;21.43;6175;smaller
+Dohna;01809;28.59;6168;smaller
+Lübz;19386;74.69;6167;smaller
+Vogtsburg im Kaiserstuhl;79235;37.36;6164;smaller
+Wassertrüdingen;91717;53.57;6153;smaller
+Windsbach;91575;68.12;6153;smaller
+Dietfurt a.d.Altmühl;92345;78.7;6147;smaller
+Dornhan;72175;44.91;6144;smaller
+Riedenburg;93339;100.3;6143;smaller
+Bad Marienberg (Westerwald);56470;34943;6137;smaller
+Biesenthal;16359;60.92;6101;smaller
+Plau am See;19395;116.27;6091;smaller
+Schirgiswalde-Kirschau;02681;24.34;6084;smaller
+Bad Blankenburg;07422;35.62;6075;smaller
+Nieheim;33039;79.71;6068;smaller
+Marne;25709;30407;6061;smaller
+Nienburg (Saale);06429;79.32;6053;smaller
+Spangenberg;34286;97.71;6038;smaller
+Meersburg;88709;45119;6026;smaller
+Schlüsselfeld;96132;70.24;5987;smaller
+Haiterbach;72221;28.92;5978;smaller
+Bad Hönningen;53557;45189;5974;smaller
+Großbreitenbach;98701;80.76;5974;smaller
+Norderney;26548;26.31;5969;smaller
+Bad Königshofen i.Grabfeld;97631;69.51;5964;smaller
+An der Schmücke;06577;95.28;5948;smaller
+Bräunlingen;78199;62.14;5945;smaller
+Thalheim/Erzgeb.;09380;29129;5915;smaller
+Geislingen;72351;31.96;5912;smaller
+Gransee;16775;121.68;5877;smaller
+Treffurt;99830;72.46;5874;smaller
+Brotterode-Trusetal;98596;49.68;5864;smaller
+Schrozberg;74575;105.21;5863;smaller
+Oberlungwitz;09353;14.68;5842;smaller
+Tittmoning;84529;72.01;5821;smaller
+Mügeln;04769;55.08;5808;smaller
+Dierdorf;56269;31.98;5792;smaller
+Neubulach;75387;24.69;5790;smaller
+Fürstenberg/Havel;16798;213.85;5781;smaller
+Greußen;99718;86.82;5774;smaller
+Herrnhut;02747;74.13;5773;smaller
+Wemding;86650;31.6;5771;smaller
+Münzenberg;35516;31.63;5770;smaller
+Westerburg;56457;18.48;5749;smaller
+Bad Lobenstein;07356;48.92;5745;smaller
+Hausach;77756;36.07;5737;smaller
+Grünhain-Beierfeld;08344;22.25;5730;smaller
+Grebenstein;34393;49.84;5730;smaller
+Leun;35638;28.66;5716;smaller
+Neustadt a.d.Waldnaab;92660;34213;5709;smaller
+Kaltennordheim;36452;94.41;5706;smaller
+Wittichenau / Kulow;02997;61.02;5699;smaller
+Wolfach;77709;67.98;5690;smaller
+Stavenhagen;17153;41.02;5687;smaller
+Waibstadt;74915;25.57;5662;smaller
+Braunlage;38700;31.65;5658;smaller
+Leutershausen;91578;84.07;5650;smaller
+Nottertal-Heilinger Höhen;99994;75.96;5632;smaller
+Bredstedt;25821;27638;5624;smaller
+Rochlitz;09306;23.76;5622;smaller
+Zeil a.Main;97475;35.67;5621;smaller
+Stadtoldendorf;37627;24.92;5613;smaller
+Kusel;66869;14.37;5594;smaller
+Traben-Trarbach;56841;31.35;5591;smaller
+Kemnath;95478;56.79;5578;smaller
+Schöppenstedt;38170;39.73;5577;smaller
+Harburg (Schwaben);86655;73.16;5574;smaller
+Hirschau;92242;74.96;5567;smaller
+Kastellaun;56288;17380;5557;smaller
+Bodenwerder;37619;45075;5548;smaller
+Bad Gottleuba-Berggießhübel;01816;88.72;5542;smaller
+Stolpen;01833;60.89;5540;smaller
+Großschirma;09603;61.63;5531;smaller
+Wirges;56422;45240;5525;smaller
+Mellrichstadt;97638;55.99;5515;smaller
+Grabow;19300;72.27;5500;smaller
+Abenberg;91183;48.41;5499;smaller
+Schwarzheide;01987;33.44;5495;smaller
+Heimsheim;71296;44999;5469;smaller
+Hagenbach;76767;15.86;5460;smaller
+Niedenstein;34305;30.61;5457;smaller
+Ingelfingen;74653;46.48;5442;smaller
+Prüm;54595;22.86;5442;smaller
+Wasungen;98634;89.08;5437;smaller
+Gersfeld (Rhön);36129;89.34;5436;smaller
+Drebkau/Drjowk;03116;143.9;5432;smaller
+Neudenau;74861;32.91;5427;smaller
+Battenberg (Eder);35088;64.71;5427;smaller
+Zarrentin am Schaalsee;19246;91.9;5421;smaller
+Gadebusch;19205;47.76;5417;smaller
+Tharandt;01737;71.23;5417;smaller
+Stühlingen;79780;93.2;5395;smaller
+Ellrich;99755;69.41;5391;smaller
+Velburg;92355;175.66;5391;smaller
+Munderkingen;89597;45120;5385;smaller
+Otterberg;67697;32.11;5377;smaller
+Eltmann;97483;40.81;5372;smaller
+Seelow;15306;42.73;5363;smaller
+Ruhla;99842;38.55;5352;smaller
+Monheim;86653;69.33;5341;smaller
+Mahlberg;77972;16.59;5326;smaller
+Burg Stargard;17094;76.61;5323;smaller
+Rockenhausen;67806;36.83;5315;smaller
+Pfreimd;92536;51.48;5284;smaller
+Oettingen i.Bay.;86732;34.22;5284;smaller
+Lütjenburg;24321;42156;5265;smaller
+Dornburg-Camburg;07774;30.77;5252;smaller
+Külsheim;97900;81.43;5250;smaller
+Forchtenberg;74670;38.09;5241;smaller
+Pottenstein;91278;73.3;5234;smaller
+Waldmohr;66914;44998;5211;smaller
+Cochem;56812;21.18;5199;smaller
+Diemelstadt;34474;82.55;5196;smaller
+Altentreptow;17087;53.07;5188;smaller
+Uebigau-Wahrenbrück;04938;135.61;5178;smaller
+Falkenstein/Harz;06463;102.97;5166;smaller
+Kitzscher;04567;45045;5144;smaller
+Adelsheim;74740;43.84;5141;smaller
+Freren;49832;48.97;5136;smaller
+Spalt;91174;55.67;5102;smaller
+Hofheim i.UFr.;97461;56.34;5100;smaller
+Lindenfels;64678;45190;5057;smaller
+Röbel/Müritz;17207;30.68;5055;smaller
+Schwaan;18258;38.28;5037;smaller
+Creußen;95473;64.87;5026;smaller
+Erbendorf;92677;67.56;5022;smaller
+Hitzacker (Elbe);29456;58.67;5020;smaller
+Borkum;26757;30.98;5008;smaller
+Naumburg;34311;66.32;5003;smaller
+Emmelshausen;56281;45054;4980;smaller
+Lichtenau;77839;27.62;4975;smaller
+Unkel;53572;42583;4970;smaller
+Arzberg;95659;43.19;4970;smaller
+Vacha;36404;44.41;4966;smaller
+Thum;09419;45187;4965;smaller
+Hollfeld;96142;80.66;4951;smaller
+Ronneburg;07580;19.13;4949;smaller
+Amöneburg;35287;43.9;4949;smaller
+Wörth a.d.Donau;93086;52.24;4930;smaller
+Windischeschenbach;92670;36.37;4930;smaller
+Oberviechtach;92526;62.42;4929;smaller
+Tönning;25832;44.43;4908;smaller
+Marienmünster;37696;64.36;4900;smaller
+Freinsheim;67251;13.59;4898;smaller
+Reichenbach/O.L.;02894;62.64;4862;smaller
+Niederstetten;97996;104.05;4836;smaller
+Trendelburg;34388;69.37;4826;smaller
+Oppenau;77728;72.98;4821;smaller
+Kröpelin;18236;67.55;4811;smaller
+Seehausen (Altmark);39615;107.03;4808;smaller
+Dahme/Mark;15936;162.58;4805;smaller
+Todtnau;79674;69.75;4804;smaller
+Pausa-Mühltroff;07952;64.13;4801;smaller
+Adorf/Vogtl.;08626;42.97;4799;smaller
+Lommatzsch;01623;66.63;4788;smaller
+Lauchheim;73466;40.86;4787;smaller
+Iphofen;97346;78.06;4782;smaller
+Niederstotzingen;89168;29.81;4778;smaller
+Geisa;36419;71.94;4777;smaller
+Wörth a.Main;63939;15.88;4773;smaller
+Crivitz;19089;75.85;4770;smaller
+Schömberg;72355;23.25;4752;smaller
+Bischofsheim i.d.Rhön;97653;67.7;4751;smaller
+Weismain;96260;90.14;4748;smaller
+Scheinfeld;91443;45.12;4706;smaller
+Eggesin;17367;88.22;4700;smaller
+Heringen/Helme;99765;66.91;4698;smaller
+Tengen;78250;62.03;4696;smaller
+Groß-Bieberau;64401;18.27;4693;smaller
+Lübtheen;19249;120.16;4686;smaller
+Schönberg;23923;52.19;4676;smaller
+Wilthen;02681;45033;4671;smaller
+Marlow;18337;140.52;4665;smaller
+Herbstein;36358;79.98;4665;smaller
+Krautheim;74238;52.9;4664;smaller
+Müllrose;15299;69.23;4660;smaller
+Amt Creuzburg;99831;69.73;4658;smaller
+Triberg im Schwarzwald;78098;33.33;4651;smaller
+Heideck;91180;58.64;4641;smaller
+Königsbrück;01936;78.48;4605;smaller
+Creglingen;97993;117.23;4605;smaller
+Vellberg;74541;31.89;4598;smaller
+Nassau;56377;17.55;4592;smaller
+Freyburg (Unstrut);06632;46.56;4563;smaller
+Ehrenfriedersdorf;09427;15.89;4550;smaller
+Wachenheim an der Weinstraße;67157;24.97;4527;smaller
+Dahn;66994;40.76;4508;smaller
+Putbus;18581;66.69;4499;smaller
+Augustusburg;09573;23.38;4492;smaller
+Hallenberg;59969;65.35;4481;smaller
+Hartenstein;08118;36.7;4474;smaller
+Strasburg (Uckermark);17335;87.48;4471;smaller
+Baumholder;55774;69.19;4444;smaller
+Rennerod;56477;18.14;4435;smaller
+Bad Berneck i.Fichtelgebirge;95460;38.26;4418;smaller
+Liebenwalde;16559;142.17;4415;smaller
+Tann (Rhön);36142;60.45;4411;smaller
+Schönau;69250;22.49;4406;smaller
+Bad Buchau;88422;23.74;4405;smaller
+Rauschenberg;35282;67.32;4402;smaller
+Dransfeld;37127;28.91;4398;smaller
+Rothenburg/O.L.;02929;72.4;4385;smaller
+Wyk auf Föhr;25938;45146;4384;smaller
+Kirchberg an der Jagst;74592;40.93;4379;smaller
+Rabenau;01734;30.73;4376;smaller
+Gerabronn;74582;40.38;4368;smaller
+Schwarzenbach a.Wald;95131;36.7;4356;smaller
+Wilster;25554;25965;4342;smaller
+Dargun;17159;118.01;4334;smaller
+Peitz/Picnjo;03185;13.49;4333;smaller
+Eschenbach i.d.OPf.;92676;35.13;4331;smaller
+Tambach-Dietharz/Thür. Wald;99897;41.64;4320;smaller
+Baruth/Mark;15837;233.83;4294;smaller
+Nastätten;56355;45059;4291;smaller
+Selbitz;95152;27.75;4286;smaller
+Gefrees;95480;50.32;4271;smaller
+Pressath;92690;66.34;4267;smaller
+Heimbach;52396;64.96;4262;smaller
+Hornberg;78132;54.45;4242;smaller
+Woldegk;17348;164.17;4241;smaller
+Waldkappel;37284;96.53;4239;smaller
+Loitz;17121;89.91;4233;smaller
+Gräfenberg;91322;37.83;4223;smaller
+Waldershof;95679;60.37;4204;smaller
+Daaden;57567;19.58;4199;smaller
+Dahlen;04774;71.87;4188;smaller
+Schnaittenbach;92253;63.41;4175;smaller
+Wanfried;37281;46.88;4161;smaller
+Rheinböllen;55494;16.36;4150;smaller
+Penzlin;17217;115.56;4134;smaller
+Lichtenfels;35104;96.77;4131;smaller
+Geringswalde;09326;45107;4130;smaller
+Neckarbischofsheim;74924;26.41;4111;smaller
+Zell (Mosel);56856;44.95;4086;smaller
+Lambrecht (Pfalz);67466;11902;4085;smaller
+Brück;14822;86.19;4076;smaller
+Lunzenau;09328;28.33;4072;smaller
+Dassow;23942;66.97;4065;smaller
+Niedernhall;74676;17.71;4061;smaller
+Allendorf (Lumda);35469;45068;4060;smaller
+Sternberg;19406;67.7;4031;smaller
+Güsten;39439;36.17;4023;smaller
+Kirchberg (Hunsrück);55481;45064;4020;smaller
+Neukloster;23992;27.51;4015;smaller
+Marktbreit;97340;20.16;4004;smaller
+Ellingen;91792;31.25;3982;smaller
+Neubukow;18233;25.13;3973;smaller
+Amorbach;63916;50.9;3962;smaller
+Baunach;96148;32.14;3953;smaller
+Neckarsteinach;69239;17.24;3938;smaller
+Waldenburg;08396;45102;3934;smaller
+Tessin;18195;24.51;3926;smaller
+Seßlach;96145;72.53;3920;smaller
+Pappenheim;91788;64.32;3918;smaller
+St. Blasien;79837;54.41;3908;smaller
+Hoya;27318;16650;3905;smaller
+Mirow;17252;158.28;3890;smaller
+Wolkenstein;09429;30.51;3879;smaller
+Lorch;65391;54.43;3875;smaller
+Gemünden (Wohra);35285;58.65;3829;smaller
+Trebsen/Mulde;04687;35.06;3777;smaller
+Regis-Breitingen;04565;26.37;3777;smaller
+Netzschkau;08491;18963;3777;smaller
+Ruhland;01945;37.22;3767;smaller
+Elsterberg;07985;44951;3761;smaller
+Johanngeorgenstadt;08349;29.59;3758;smaller
+Schiltach;77761;34.21;3741;smaller
+Freudenberg;97896;34.76;3737;smaller
+Kindelbrück;99638;57.84;3725;smaller
+Deidesheim;67146;26.54;3724;smaller
+Vöhrenbach;78147;70.47;3715;smaller
+Steinach;96523;26.35;3688;smaller
+Bad Muskau / Mužakow;02953;15.38;3669;smaller
+Tegernsee;83684;22.74;3668;smaller
+Speicher;54662;15.36;3668;smaller
+Grünsfeld;97947;44.72;3654;smaller
+Strehla;01616;30.28;3651;smaller
+Königsberg i.Bay.;97486;61.88;3630;smaller
+Triptis;07819;33.15;3629;smaller
+Seifhennersdorf;02782;45279;3614;smaller
+Bad Elster;08645;19.77;3610;smaller
+Weißensee;99631;55.33;3604;smaller
+Rehna;19217;44.59;3598;smaller
+Bad Karlshafen;34385;14.85;3597;smaller
+Mühlheim an der Donau;78570;21.74;3577;smaller
+Wildenfels;08134;20.68;3564;smaller
+Lucka;04613;34304;3553;smaller
+Gröningen;39397;59.73;3548;smaller
+Mühlberg/Elbe;04931;89.2;3534;smaller
+Eschershausen;37632;23.92;3488;smaller
+Burgbernheim;91593;42.3;3474;smaller
+Wesselburen;25764;41395;3465;smaller
+Tanna;07922;87.35;3456;smaller
+Goldkronach;95497;30.68;3444;smaller
+Münstermaifeld;56751;27.77;3432;smaller
+Schwarzatal;98744;25.98;3427;smaller
+Gößnitz;04639;45121;3427;smaller
+Bad Schandau;01814;46.76;3423;smaller
+Krakow am See;18292;87.36;3422;smaller
+Auma-Weidatal;07955;55.91;3396;smaller
+Bad Köstritz;07586;16.93;3389;smaller
+Joachimsthal;16247;121.68;3388;smaller
+Owen;73277;45116;3388;smaller
+Neustadt (Dosse);16845;75.87;3387;smaller
+Ulmen;56766;28.74;3384;smaller
+Hirschhorn (Neckar);69434;30.85;3382;smaller
+Löwenstein;74245;23.46;3369;smaller
+Goldberg;19399;64.72;3368;smaller
+Stromberg;55442;44935;3355;smaller
+Heldburg;98663;112.74;3355;smaller
+Geyer;09468;18.56;3350;smaller
+Oberriexingen;71739;42583;3340;smaller
+Rötz;92444;66.67;3337;smaller
+Kelbra (Kyffhäuser);06537;40.56;3308;smaller
+Ludwigsstadt;96337;58.74;3306;smaller
+Saalburg-Ebersdorf;07929;72.05;3300;smaller
+Kranichfeld;99448;44949;3293;smaller
+Ostheim v.d.Rhön;97642;40.85;3288;smaller
+Welzow/Wjelcej;03119;39.57;3274;smaller
+Schalkau;96528;44.02;3268;smaller
+Havelsee;14798;81.97;3248;smaller
+Hohnstein;01848;64.64;3230;smaller
+Bernstadt a. d. Eigen;02748;52;3213;smaller
+Neusalza-Spremberg;02742;22.91;3211;smaller
+Hillesheim;54576;20.66;3209;smaller
+Berga/Elster;07980;43.52;3198;smaller
+Warin;19417;44.45;3191;smaller
+Kaisersesch;56759;43313;3191;smaller
+Egeln;39435;29.23;3176;smaller
+Bad Teinach-Zavelstein;75385;25.17;3175;smaller
+Kirtorf;36320;79.91;3159;smaller
+Sonnewalde;03249;119.29;3153;smaller
+Lychen;17279;111.98;3147;smaller
+Döbern/Derbno;03159;15.79;3146;smaller
+Lauscha;98724;18.72;3145;smaller
+Schönwald;95173;19.19;3133;smaller
+Lebus;15326;54.42;3133;smaller
+Stadtsteinach;95346;39.8;3118;smaller
+Prichsenstadt;97357;48.87;3115;smaller
+Eibelstadt;97246;45114;3112;smaller
+Kirchenlamitz;95153;48.48;3103;smaller
+Wolframs-Eschenbach;91639;25.47;3103;smaller
+Fridingen an der Donau;78567;22.47;3100;smaller
+Weißenstadt;95163;42.23;3094;smaller
+Klütz;23948;44.43;3067;smaller
+Waldenburg;74638;31.55;3060;smaller
+Schöneck/Vogtl.;08261;55.03;3060;smaller
+Wesenberg;17255;89.65;3057;smaller
+Merkendorf;91732;45133;3056;smaller
+Bärnau;95671;74.41;3047;smaller
+Weißenberg / Wóspork;02627;50.96;3046;smaller
+Waischenfeld;91344;57.93;3037;smaller
+Schönewalde;04916;156.18;3034;smaller
+Bürgel;07616;27.19;3032;smaller
+Adenau;53518;18.56;3020;smaller
+Rhens;56330;16.31;2992;smaller
+Dömitz;19303;60.57;2991;smaller
+Lindow (Mark);16835;65.47;2991;smaller
+Nebra (Unstrut);06642;25.43;2980;smaller
+Liebenau;34396;48.88;2975;smaller
+Friedland;15848;174.23;2975;smaller
+Münchenbernsdorf;07589;15.45;2962;smaller
+Wurzbach;07343;72.32;2956;smaller
+Marktleuthen;95168;35.48;2954;smaller
+Ravenstein;74747;55.97;2948;smaller
+Braubach;56338;45065;2929;smaller
+Ulrichstein;35327;65.61;2926;smaller
+Hatzfeld (Eder);35116;58.51;2926;smaller
+Gützkow;17506;57.65;2923;smaller
+Jarmen;17126;30.71;2922;smaller
+Selters (Westerwald);56242;45115;2876;smaller
+Gnoien;17179;41.11;2865;smaller
+Frankenau;35110;57.29;2852;smaller
+Schillingsfürst;91583;45073;2828;smaller
+Oberwesel;55430;45156;2813;smaller
+Meisenheim;55590;12328;2805;smaller
+Laucha an der Unstrut;06636;31.17;2790;smaller
+Themar;98660;20.18;2784;smaller
+Sankt Goar;56329;23.17;2783;smaller
+Wustrow (Wendland);29462;30.19;2772;smaller
+Elterlein;09481;45.74;2765;smaller
+Sulzburg;79295;22.74;2762;smaller
+Garding;25836;45080;2753;smaller
+Frauenstein;09623;58.98;2705;smaller
+Elstra / Halštrow;01920;32.63;2683;smaller
+Romrod;36329;54.43;2669;smaller
+Ebeleben;99713;44.54;2652;smaller
+Bad Bibra;06647;49.77;2644;smaller
+Putlitz;16949;119.68;2633;smaller
+Tribsees;18465;54.98;2623;smaller
+Schkölen;07619;53.43;2607;smaller
+Brüel;19412;27.21;2602;smaller
+Friedrichstadt;25840;44961;2593;smaller
+Wallenfels;96346;45.65;2573;smaller
+Lauterstein;73111;23.31;2561;smaller
+Alsleben (Saale);06425;45130;2545;smaller
+Jöhstadt;09477;49.69;2539;smaller
+Bad Wilsnack;19336;79.62;2536;smaller
+Friesack;14662;84.01;2520;smaller
+Ziesar;14793;67.95;2514;smaller
+Rastenberg;99636;35.52;2497;smaller
+Betzenstein;91282;51.84;2490;smaller
+Golßen;15938;63.68;2484;smaller
+Scheer;72516;18.72;2480;smaller
+Gefell;07926;45.22;2461;smaller
+Wegeleben;38828;51.77;2458;smaller
+Bad Tennstedt;99955;27.42;2452;smaller
+Gartz (Oder);16307;61.88;2442;smaller
+Schönau im Schwarzwald;79677;14.72;2415;smaller
+Osterfeld;06721;27.61;2407;smaller
+Dommitzsch;04880;30.44;2403;smaller
+Schwanebeck;39397;32.61;2400;smaller
+Schlieben;04936;78.65;2393;smaller
+Schönsee;92539;50.28;2375;smaller
+Krempe;25361;13940;2374;smaller
+Rethem (Aller);27336;34.08;2352;smaller
+Grebenau;36323;55.34;2342;smaller
+Schlettau;09487;21.22;2321;smaller
+Pleystein;92714;42.4;2309;smaller
+Aach;78267;25112;2304;smaller
+Eckartsberga;06648;35.97;2302;smaller
+Mainbernheim;97350;44531;2280;smaller
+Garz/Rügen;18574;65.91;2254;smaller
+Katzenelnbogen;56368;43344;2240;smaller
+Fladungen;97650;46.34;2192;smaller
+Ostritz;02899;23.48;2178;smaller
+Hayingen;72534;63.37;2174;smaller
+Rerik;18230;34.22;2166;smaller
+Rosenthal;35119;51.55;2148;smaller
+Veringenstadt;72519;31.25;2143;smaller
+Meyenburg;16945;50.74;2125;smaller
+Oderberg;16248;36.12;2117;smaller
+Hirschberg;07927;24.13;2110;smaller
+Gebesee;99189;45162;2105;smaller
+Königstein/Sächs. Schw.;01824;45073;2085;smaller
+Lenzen (Elbe);19309;96.19;2058;smaller
+Ortrand;01990;13332;2054;smaller
+Oberwiesenthal;09484;40.03;2043;smaller
+Niemegk;14823;45.12;2042;smaller
+Leutenberg;07338;57.52;2030;smaller
+Scheibenberg;09481;9;2022;smaller
+Wiesensteig;73349;23.41;2015;smaller
+Magdala;99441;20.58;1987;smaller
+Sachsenhagen;31553;15.47;1983;smaller
+Plaue;99338;22.69;1977;smaller
+Lauterecken;67742;32721;1974;smaller
+Marktsteft;97342;18902;1962;smaller
+Teuschnitz;96358;34.25;1948;smaller
+Langenburg;74595;31.4;1934;smaller
+Rieneck;97794;26.19;1915;smaller
+Schauenstein;95197;26.66;1902;smaller
+Gräfenthal;98743;36.42;1878;smaller
+Teupitz;15755;48.15;1878;smaller
+Wolfstein;67752;13.75;1843;smaller
+Bacharach;55422;23.35;1839;smaller
+Widdern;74259;25.23;1836;smaller
+Hettingen;72513;46.06;1797;smaller
+Velden;91235;21.34;1784;smaller
+Penkun;17328;78.87;1773;smaller
+Brüssow;17326;101.81;1759;smaller
+Bad Sülze;18334;26.67;1758;smaller
+Neukalen;17154;47.97;1744;smaller
+Usedom;17406;39.06;1741;smaller
+Sayda;09619;35.3;1690;smaller
+Ranis;07389;21094;1648;smaller
+Röttingen;97285;27.21;1646;smaller
+Ornbau;91737;15.16;1639;smaller
+Lehesten;07349;35.94;1596;smaller
+Rhinow;14728;31.66;1593;smaller
+Oberhof;98559;45039;1570;smaller
+Stadt Wehlen;01829;31321;1555;smaller
+Neuerburg;54673;43009;1544;smaller
+Stadtprozelten;97909;32051;1522;smaller
+Buckow (Märkische Schweiz);15377;14.42;1464;smaller
+Arneburg;39596;44957;1461;smaller
+Lassan;17440;28.21;1456;smaller
+Hohenberg a.d.Eger;95691;15.66;1436;smaller
+Hohenleuben;07958;19603;1431;smaller
+Aub;97239;17.54;1430;smaller
+Hornbach;66500;13.34;1427;smaller
+Manderscheid;54531;45087;1423;smaller
+Kroppenstedt;39397;38.69;1395;smaller
+Franzburg;18461;44972;1367;smaller
+Lieberose;15868;73.03;1340;smaller
+Richtenberg;18461;15.67;1319;smaller
+Schwarzenborn;34639;45195;1289;smaller
+Sankt Goarshausen;56346;45084;1288;smaller
+Liebstadt;01825;37.36;1271;smaller
+Neustadt am Kulm;95514;45005;1130;smaller
+Schraplau;06279;45084;1093;smaller
+Orlamünde;07768;17349;1083;smaller
+Obermoschel;67823;42278;1049;smaller
+Clingen;99718;27668;1049;smaller
+Kupferberg;95362;47331;1047;smaller
+Lichtenberg;95192;17411;1016;smaller
+Rothenfels;97851;45119;1007;smaller
+Kyllburg;54655;22737;992;smaller
+Werben (Elbe);39596;53.1;986;smaller
+Stößen;06667;47300;916;smaller
+Märkisch Buchholz;15748;24.86;841;smaller
+Kaub;56349;45059;829;smaller
+Sandau (Elbe);39524;18.58;829;smaller
+Ziegenrück;07924;45870;629;smaller
+Schnackenburg;29493;45130;517;smaller
+Neumark;99439;24685;474;smaller
+Ummerstadt;98663;15.73;452;smaller
+Arnis;24399;0.45;268;smaller
