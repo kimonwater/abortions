@@ -15,4 +15,4 @@ unless stated differently data is retrieved from the Federal Statistical Office 
 - Cities: [population](https://www.destatis.de/DE/Themen/Laender-Regionen/Regionales/Gemeindeverzeichnis/Administrativ/05-staedte.html), [lonlat](https://launix.de/launix/launix-gibt-plz-datenbank-frei/) (from the launix company lausitz + linux; added bottom 9 manually)
 
 ***
-*Thanks to 🐣 Daniel for being the literal inspiration, 🦊 Sebastian for helping with the first notebook and python all the way back, 🐑 Alex for trusting me and my technical skills when in doubt, 🖤 God & family!*
+*Thanks to 🐣 Daniel for being the literal inspiration, 🦊 Sebastian for helping with the first notebook & python all the way back, 🐑 Alex for trusting me & my technical skills when in doubt, 🖤 God & family!*
